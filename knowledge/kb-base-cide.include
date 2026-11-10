@@ -1,0 +1,17 @@
+﻿# KB-Base include list for CIDE bundle.
+# Format:
+# - Empty lines and lines starting with # are ignored.
+# - Paths are relative to knowledge/ and use forward slashes.
+# - You can use '*' wildcard patterns.
+
+META/integrity-core.md
+META/integrity-post-spec-v1.md
+index-knowledge-router-v1.md
+agent-memory-and-operating-principles-v1.md
+domains/agent-operations/playbook-integrity-under-pressure-v1.md
+worlds/workspace-context/playbook-multi-project-context-v1.md
+worlds/agent-orchestration/playbook-agent-autonomy-and-routing-v1.md
+worlds/agent-orchestration/playbook-clarification-general-query-v1.md
+worlds/knowledge-engineering/runbook-kb-mcp-access-v1.md
+worlds/knowledge-engineering/status-knowledge-engineering-v1.md
+

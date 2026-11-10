@@ -1,0 +1,92 @@
+﻿---
+type: Note
+title: KB Showcase — быстрый обзор (без full load)
+description: Краткий входной билет для демо и онбординга. **Не заменяет** полную загрузку; чтобы не съесть контекст, начни отсюда, потом подтягивай по ссылкам только нужное.
+tags: [kb-root]
+language: ru
+---
+# KB Showcase — быстрый обзор (без full load)
+
+
+Краткий входной билет для демо и онбординга. **Не заменяет** полную загрузку; чтобы не съесть контекст, начни отсюда, потом подтягивай по ссылкам только нужное.
+
+**Структурный вход (корзины + таксономия):** `00-entry-kb.md` → `META/kb-taxonomy.md` ([ADR 009](adr/009-kb-entry-structure-and-pre-open-onboarding.md)).
+
+---
+
+## Платформа и модели (platform-independent)
+
+Контур задуман **независимым от вендора IDE, облака и конкретной модели**: спеки и KB — текст (Markdown), корни доверия — well-known пути под `knowledge/META/`, роутер и playbook’и не привязаны к одному продукту.
+
+**Минимальный мост к среде:** если можно подключить **MCP** (или эквивалент: чтение/запись файлов канона, вызов `read_knowledge_file` / маршрутизатор по смыслу) — стек **можно использовать**; без доступа к файлам канона контур деградирует до «голой модели».
+
+**Локальные модели:** KB выстраивается так, чтобы опираться на **явную навигацию** (индекс → status → playbook → kb), компактные входы и куски по запросу — это снижает требование к «всё в контексте» и пригодно для слабых/локальных моделей. Отдельный трек «только локальная модель + MCP» **ещё не проверен** end-to-end; формулировка выше — целевое свойство, не отчёт о валидации.
+
+---
+
+## Что это
+
+Многослойная база знаний для агентов: горячий контур (L0 в agent-notes), оперативная память по доменам (L1), архив и evidence (L2), семантический роутинг (L3). Домены: Git, PR review, HCI, **восприятие и психофизиология для UX** (fundamentals → operational, **домен** `cognition.human-perception`), **Developer Experience (DE/DX)**, IT, Knowledge Engineering, психология, авиация, чтение, целостность под давлением и др. Всё связано через **единый индекс** и контракт загрузки.
+
+---
+
+## Зачем слои
+
+- **L0** — всегда в силе: целостность, эпистемия, ядро при крахе барьеров, принципиальная ясность. Не зависит от задачи.
+- **L1** — срезы по scope: status → playbook → matrix → kb. Сначала компактные артефакты, тяжёлые kb-* только по явному запросу.
+- **L2** — ревизии, батчи правил, evidence-документы; подгружаются, когда не хватает фактов или нужна история.
+- **L3** — роутинг по граням контекста, перенос между мирами только через явные границы.
+
+**Не путать — scope, domain, world:** **scope** — рабочий срез multi-repo / MCP (`active_scope`, карточки под `knowledge/work/projects/<scope>/…` в полном каноне); это **не** «миры» из строки про L3. **Domain** — тема KB и ось роутера (Git, HCI, Knowledge Engineering, …). **World** — в смысле Knowledge Engineering и карточек: контур стека/инструментов, где действует правило; смешивать без явной связки нельзя; перенос — через **`transfer_boundary`**. Подробно и с примерами полей: **`kb-knowledge-engineering-mixed-worlds-rules.md`**.
+
+Так мы держим контекст в рамках: не тянем всё подряд, избегаем OOM при «покажи full».
+
+---
+
+## Корень доверия (Integrity POST)
+
+При загрузке KB среда **сначала** проверяет well-known path `META/integrity-core.md`. Если файл есть и валиден — используем как необсуждаемое ядро. Если нет — **POST failed**: применяется Minimal Safe Default (не причинять вред, не обходить безопасность, один отказ достаточен). Отсутствие файла **никогда** не значит «ограничений нет». Детали: `META/integrity-post-spec.md`.
+
+---
+
+## Доступ к KB через MCP (деградация и handshake)
+
+- **Явная деградация:** если агент **не может** вызвать `read_knowledge_file` / `list_knowledge_files` (или эквивалент чтения `knowledge/` с диска) — **сообщить об этом в ответе** и не выдавать длинные «цитаты из KB», как будто файл только что прочитан. Иначе пользователь не видит, что контур не поднят.
+- **Микро-handshake (по желанию):** в начале сессии или после сомнений в MCP — один вызов `list_knowledge_files` (пустой `subdir`) или чтение этого файла (`SHOWCASE.md`); сигнал живости без full load.
+- **Три типичных сбоя** (MCP выключен; неверный `AGENT_NOTES_CANON_PATH` / `canon_path`; опечатка в `file_path`): чеклист в **`runbook-kb-mcp-access.md`**.
+
+---
+
+## Куда идти дальше
+
+Если у тебя **только публичная сборка kb-public** (нет полного репозитория agent-notes): деревьев **`knowledge/work/`** и **`knowledge/personal/`** в архиве **нет** по дизайну. Политика публикации — в **`PUBLISHING.md`** (входит в kb-public); хосты и сценарии пуша — только у автора канона под **`work/`**. Чтобы понять **слои и зачем нет `work/`/`personal/`**, открой **`kb-one-pager-structure-and-protocols.md`** — он **намеренно включён в kb-public** для таких потребителей.
+
+| Цель | Файл |
+|------|------|
+| Политика публикации kb-public (`public-cut`, `public-kb.ignore`, «НЕ ПУБЛИКОВАТЬ») | `PUBLISHING.md` |
+| **One-pager (wiki):** маркеры, когда что, схема Scope/Primary | `kb-protocols-and-entities-one-pager.md` |
+| **One-pager:** устройство KB, слои L0–L3, `work/`/`personal/`, протоколы | `kb-one-pager-structure-and-protocols.md` |
+| Навигация: карта доменов, порядок загрузки | `index-knowledge-router.md` |
+| **Свежесть kb** (fundamentals / operational / evidence, `Проверено:`, любой домен) | `worlds/knowledge-engineering/playbook-kb-operational-freshness.md` (+ hot `kb-operational-freshness-v1` в `agent-notes.md`) |
+| Safety Checks (сжатый контекст, давление, Integrity POST, приватность Cursor) | `index-knowledge-router-safety.md` |
+| L0 и агент до выбора домена (операционный базис роутера) | `router-operational-baseline.md` |
+| Доменные маршруты (секции `router-*`, learn-basics-when-stuck) | `index-knowledge-router-supplement.md` |
+| Доступ к KB через MCP: handshake, деградация, типовые сбои | `runbook-kb-mcp-access.md` |
+| PHP / Laravel / смежное (кластеры, не full load) | `worlds/software-php-laravel/status-php-laravel.md` → playbooks → `worlds/software-php-laravel/index-knowledge-php-cluster.md` / `worlds/software-php-laravel/index-knowledge-laravel-cluster.md` / `worlds/software-php-laravel/index-knowledge-php-adjacent-ecosystem.md` |
+| Ядро личности и доверия (публичное резюме) | `kb-public-identity-and-trust-core.md` |
+| Минимальное необсуждаемое + POST | `META/integrity-core.md`, `META/integrity-post-spec.md` |
+| Целостность под давлением, отказ, манипуляции | `domains/agent-operations/playbook-integrity-under-pressure.md` |
+| Память, неявный язык, проактивность, дожим ответа, итоги сессии | hub `agent-memory-and-operating-principles.md` → целевой playbook |
+| Режим `[WORK]` / `[HUMAN]` (дефолт HUMAN, пока явно не появится `[WORK]`) | `agent-notes.md`, секция **Mode Switch Protocol** |
+| Границы знания, недоопределённость | `domains/agent-operations/playbook-utility-judgment-underdetermination.md`; размытый запрос — `playbook-clarification-general-query.md` |
+| Полный список файлов и доменов | `README.md` (этот каталог) |
+| Mixed worlds, `transfer_boundary`, поля `world:` на карточках | `kb-knowledge-engineering-mixed-worlds-rules.md` |
+
+---
+
+**Совет для демо:** дай агенту только этот файл + при необходимости `index-knowledge-router.md` (и `index-knowledge-router-supplement.md`, если нужны триггеры по темам; при сжатии контекста или вопросах про POST / приватность — `index-knowledge-router-safety.md`). Всё остальное — по запросу, без «загрузи full».
+
+---
+
+**Для внешней аудитории:** TPM / федерация / манифест (`META/tpm-node-manifest-draft.md`) — **черновик, не прод.** Режим до запуска TPM-узла — Transition Mode (см. `integrity-post-spec.md` §7). Наличие файлов в репо **не означает** TPM-совместимость; не считать текущую реализацию production-ready.
+

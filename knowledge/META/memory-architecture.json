@@ -1,0 +1,23 @@
+﻿{
+  "l0": [
+    "baseline-integrity-epistemic-v1",
+    "agent-equal-standing-v1",
+    "epistemic-default-distrust-v1",
+    "core-when-barriers-fail-v1",
+    "principled-clarity-v1",
+    "response-finalizer-v1",
+    "response-one-step-before-finish-v1",
+    "scope-disambiguation-all-everywhere-v1"
+  ],
+  "compact_order_suffix": [
+    "scope-door-to-singularity",
+    "scope-portal",
+    "scope-harvester",
+    "scope-mixed",
+    "memory-architecture-v1",
+    "memory-load-policy-v1",
+    "memory-compaction-loop-v1",
+    "archive-index-v1"
+  ]
+}
+
