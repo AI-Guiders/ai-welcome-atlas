@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Neurolinguistics — fundamentals v1
 description: '**Мир:** `cognition.neurolinguistics`'
 tags: [cognition-neurolinguistics, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

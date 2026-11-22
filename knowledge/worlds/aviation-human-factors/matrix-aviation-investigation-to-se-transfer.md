@@ -1,9 +1,9 @@
-﻿---
+---
 type: Transfer Matrix
 title: Aviation investigation → SE / Platform — transfer matrix v1
 description: '**Назначение:** перенос **духа расследования** из авиации в software/platform ops — сильнее, чем типичный retro.'
 tags: [aviation-human-factors, matrix, worlds, investigation, transfer, guiders]
-language: ru
+language: ru-RU
 world: aviation
 subworld: human-factors
 ---

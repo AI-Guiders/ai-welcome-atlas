@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.russian-language**
 description: '**Идентификатор:** `pedagogy.russian-language`'
 tags: [pedagogy-russian-language, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: russian-language
 ---

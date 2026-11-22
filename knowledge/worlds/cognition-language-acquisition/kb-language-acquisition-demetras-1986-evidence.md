@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Demetras, Post & Snow (1986) — Feedback to first language learners'
 description: '**Discussion (authors):** implicit negative/positive feedback **exists** and is produced differentially; learnability axiom «no negative feedback» **ill founded** for these dyads — но utility **suboptimal** (proportional, not categorical; negative feedback to WF utterances occurs). **Не** causal claims.'
 tags: [cognition-language-acquisition, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: synthesis_from_primary_literature
 world: cognition
 subworld: language-acquisition

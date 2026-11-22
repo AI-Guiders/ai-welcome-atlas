@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: SSH / SCP — операции и безопасность'
 description: '> **Scope:** общие практики использования SSH, SCP и управления ключами. Без конкретных имён хостов и путей.'
 tags: [living, ops-network-admin, playbook, worlds]
-language: ru
+language: ru-RU
 world: ops
 subworld: network-admin
 ---

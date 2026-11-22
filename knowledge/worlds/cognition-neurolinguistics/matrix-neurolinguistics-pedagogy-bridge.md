@@ -1,9 +1,9 @@
-﻿---
+---
 type: Transfer Matrix
 title: Transfer matrix — neurolinguistics ↔ pedagogy v1
 description: '**Мир:** `cognition.neurolinguistics`'
 tags: [cognition-neurolinguistics, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

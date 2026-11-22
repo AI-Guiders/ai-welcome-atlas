@@ -1,6 +1,12 @@
-﻿# ADR 026: KB переезжает на OKF — канон как OKF bundle + естественное расширение полей
+---
+type: ADR
+title: 'ADR 026: KB переезжает на OKF — канон как OKF bundle + естественное расширение полей'
+status: stable
+tags: [adr, kb, okf, transfer, routing, agentnotes, migration]
+language: ru-RU
+---
+# ADR 026: KB переезжает на OKF — канон как OKF bundle + естественное расширение полей
 
-**Tags:** #adr #kb #okf #transfer #routing #agentnotes #migration
 
 **Статус:** Accepted (operator steer 2026-10-23: «переведи до конца» — старт M0→M1)
 **Дата:** 2026-10-23
@@ -113,7 +119,7 @@ Section markup `<!-- section:ID -->` **остаётся в телах** — OKF-
 | `routing` | порядок загрузки (`status → playbook → matrix → kb`), бюджеты (tiny/normal/deep), hints | `index-knowledge-router.md` |
 
 **Routing-подсистема (as-built по коду AgentNotes.Core, 2026-10-24; steer: «это один роутер — иди смотри route_context»):** файлы-роутеры — **данные**; машина — пять слоёв: (1) resolv scope (`NotesStorage.Scope.cs`); (2) `route_context` — скоринг секций hot (совпадения×4, +24/полный query в контенте, +20/id, позиционный бонус hot-порядка `30−idx×2`), бюджеты `max_sections`/`max_chars`; (3) **knowledge-roots overlay** — до 3 записей реестра с превью из read-only корней (+32) при мульти-рутных запросах; (4) corpus: каскад resolve→lookup→search по тег-индексу (`KnowledgeTagIndex`), role-тег `#ssot` — второй ключ сортировки, scope-boost +50/+100 (`KnowledgeCorpusRecall`); (5) `memory_health` — бюджеты из `memory-architecture.json`. **Регресс M2 (критично, M3 п.1):** corpus-слой парсит `**Tags:**` из тел — после миграции строки в frontmatter `tags:`, тег-индекс/ssot-сортировка ослепли на 1669 файлах. Фикс: dual-read (frontmatter `tags:` + legacy-фолбэк) в `KnowledgeTags` → потом полное переключение; заодно — эмит `sections:` реестра мигратором.
-| `contour` | `u \| g \| o` — видимость концепта; `u` исключает из публичного и группового артефактов | roots chmod [013]; маркер «НЕ ПУБЛИКОВАТЬ»; механика публикации — §8 |
+| `contour` | `u \| u-human \| u-ai \| g \| o` — видимость и суверенитет концепта; любое `u*` (`u`, `u-human`, `u-ai`) исключает из публичного и группового артефактов (`u-human` — личное пространство человека; `u-ai` — личное пространство агентного разума: `assistantLines/`, `LinesForum/`, куда оператор не вмешивается ручными правками) | roots chmod [013]; маркер «НЕ ПУБЛИКОВАТЬ»; механика публикации — §8 |
 | `layer` | `hot-stub \| l1 \| on-demand` | memory-load policy |
 | `scope` | active_scope концепта (`portal`, `harvester`, `imc`, `mixed`, `door-to-singularity`, …) | scope maps [008]/[012] |
 | `sections` | реестр section id концепта: `[id, …]`; границы секций — body-маркеры `<!-- section:ID -->` (normative); SAT: `sections` ↔ маркеры без drift | section markup канона (MCP `upsert_agent_notes_section` и др.) |
@@ -326,4 +332,5 @@ M4 — group-kb → bundle [011]; kb-public → subset-bundle (contour o) [001]
 При Accepted — одна строка в supplement: «OKF canon / профиль agentnotes» → этот ADR + миграционный runbook (M1).
 
 Номер 026: 023–025 зарезервированы планом «Extended by» в [022] (records basket, transfer compile, kb-sat catalog).
+
 

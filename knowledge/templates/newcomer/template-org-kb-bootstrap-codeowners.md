@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: CODEOWNERS — {REPO_GROUP}
 description: '* @{ORG_SLUG}/kb-maintainers'
 tags: [template, templates]
-language: en
+language: en-US
 ---
 # CODEOWNERS — {REPO_GROUP}
 

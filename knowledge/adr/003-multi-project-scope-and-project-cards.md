@@ -1,5 +1,11 @@
-﻿# ADR 003: Multi-Project Scope Model and Project Cards
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 003: Multi-Project Scope Model and Project Cards'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 003: Multi-Project Scope Model and Project Cards
 
 
 **Статус:** Accepted  
@@ -40,4 +46,5 @@
 ## Примечание об эволюции
 
 Это решение стало операционной основой для раздельных контуров поставки (internal/work vs public/base).
+
 

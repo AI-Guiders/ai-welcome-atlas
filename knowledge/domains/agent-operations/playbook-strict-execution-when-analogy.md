@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: строгое выполнение при отсылке к образцу'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: строгое выполнение при отсылке к образцу
 

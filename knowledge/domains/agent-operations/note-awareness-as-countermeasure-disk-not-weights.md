@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Moved → META (hard POST root)
 description: 'Канон: [`../../META/awareness-as-countermeasure.md`](../../META/awareness-as-countermeasure.md)'
 tags: [agent-operations, moved]
-language: en
+language: en-US
 ---
 
 # Moved → META (hard POST root)

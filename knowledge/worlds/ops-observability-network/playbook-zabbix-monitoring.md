@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Zabbix — мониторинг'
 description: '> **Scope:** общие практики мониторинга с Zabbix, типовые интеграции (в т.ч. nginx), без привязки к конкретным хостам.'
 tags: [living, ops-observability-network, playbook, worlds]
-language: ru
+language: ru-RU
 world: ops
 subworld: observability-network
 ---

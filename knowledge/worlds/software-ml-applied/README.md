@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **software.ml-applied**
 description: '**Идентификатор мира:** `software.ml-applied`'
 tags: [readme, software-ml-applied, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: ml-applied
 ---

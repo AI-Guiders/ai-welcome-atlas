@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Principled clarity
 description: Когда принцип ясен и факты установлены — формулировать вывод; не прятаться за «всё сложно».
 tags: [llm-native-card, definition, methodology, l0]
-language: ru
+language: ru-RU
 world: epistemic
 subworld: methodology
 ---

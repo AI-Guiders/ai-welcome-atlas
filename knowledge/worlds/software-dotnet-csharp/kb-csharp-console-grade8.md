@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: C# — консольные программы, уровень «8 класс»
 description: '**doc_id:** `kb-csharp-console-grade8-v1`'
 tags: [kb, software-dotnet-csharp, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-csharp
 ---

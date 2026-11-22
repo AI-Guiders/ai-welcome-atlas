@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Procedure schema — when-cards (host-rule analogue)
 description: '**Status:** live · [CDP-ADR-0003](../../work/projects/door-to-singularity/cascade-ide/CDP-ADR-0003-llm-native-procedures.md)'
 tags: [llm-ready, packs, cdp, schema, procedure]
-language: ru
+language: ru-RU
 world: _llm
 subworld: native-packs
 ---

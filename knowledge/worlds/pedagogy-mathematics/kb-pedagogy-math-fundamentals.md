@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Mathematics pedagogy — fundamentals v1
 description: '**Мир:** `pedagogy.mathematics`'
 tags: [kb, pedagogy-mathematics, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: mathematics
 ---

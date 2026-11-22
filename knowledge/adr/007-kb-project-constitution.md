@@ -1,5 +1,11 @@
-﻿# ADR 007: KB Project Constitution
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 007: KB Project Constitution'
+status: draft
+tags: [adr]
+language: ru-RU
+---
+# ADR 007: KB Project Constitution
 
 
 **Статус:** Proposed  
@@ -76,4 +82,5 @@ KB выросла в операционную систему знаний с н�
 1. Считать этот ADR входной точкой для ревью новых архитектурных изменений KB.
 2. При необходимости добавить краткие ссылки на конституцию в ключевые индексные документы KB.
 3. Поддерживать согласованность с `kb-base-cide.include` и скриптами сборки бандлов.
+
 

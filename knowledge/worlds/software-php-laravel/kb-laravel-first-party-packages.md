@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Laravel — first-party пакеты и инструменты экосистемы
 description: '**Назначение:** карта **официальных** пакетов вокруг `laravel/framework`: зачем каждый, типичные контракты деплоя. Не заменяет docs конкретного пакета. Мир `software.laravel`.'
 tags: [kb, software-php-laravel, worlds]
-language: ru
+language: ru-RU
 epistemic: fact + inference
 world: software
 subworld: php-laravel

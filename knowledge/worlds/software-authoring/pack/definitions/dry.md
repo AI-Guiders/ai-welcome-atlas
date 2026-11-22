@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: DRY
 description: Don't Repeat Yourself — знание в одном месте; не путать с «запретить любое копипасте».
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Glossary
 title: 'Glossary: дешёвый априор · стереоход'
 description: '**Status:** Accepted · 2026-08-05'
 tags: [meta, glossary, cheap-prior, stereohod, stereomove, epsilon, scm-names]
-language: ru
+language: ru-RU
 ---
 # Glossary: дешёвый априор · стереоход
 

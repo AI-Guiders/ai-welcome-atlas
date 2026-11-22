@@ -1,5 +1,11 @@
-﻿# ADR in KB
-**Tags:** #adr #readme
+---
+type: Index
+title: 'ADR in KB'
+status: stable
+tags: [adr, readme]
+language: ru-RU
+---
+# ADR in KB
 
 
 Этот каталог хранит архитектурные решения для самого KB и его операционного контура.
@@ -55,4 +61,5 @@
 - `021-federated-app-catalog.md` (Accepted draft: federated trust, unified desktop install journey; FAC / GPLAT/APPCAT)
 - `022-kb-graph-substrate.md` (Proposed: KB implicit graph → F# Graph IR, slices, kb-sat, records/views; graph DB optional projection; AgentNotes.Modeling guild)
 - `026-okf-canon-migration-and-natural-extension.md` (Proposed: полный переезд KB на OKF v0.2 как канон — one-time миграция; расширение OKF натуральными полями без префикса — `transfer`/`routing`/`contour`/`layer`/`scope` + типы Transfer/Do-Not-Transfer Matrix; hot остаётся runtime-слоем; 023–025 зарезервированы планом ADR 022)
+
 

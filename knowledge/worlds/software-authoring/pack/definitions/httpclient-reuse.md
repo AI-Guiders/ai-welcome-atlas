@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: HttpClient reuse
 description: Не new HttpClient на каждый запрос; factory / long-lived instance.
 tags: [llm-native-card, definition, software-authoring]
-language: en
+language: en-US
 world: software
 subworld: authoring
 ---

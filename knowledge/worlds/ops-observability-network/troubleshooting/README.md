@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Troubleshooting — ops.observability-network
 description: 'Операционные playbooks: `../playbook-zabbix-monitoring.md`, `../playbook-grafana.md`, `../playbook-network-fundamentals.md`, `../kb-network-reference.md`.'
 tags: [ops-observability-network, readme, worlds]
-language: en
+language: en-US
 world: ops
 subworld: observability-network
 ---

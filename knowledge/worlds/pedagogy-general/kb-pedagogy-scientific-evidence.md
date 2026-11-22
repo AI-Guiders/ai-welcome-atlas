@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Pedagogy — scientific evidence index v1 (cross-cutting)
 description: Foundational Rosenshine/Sweller 1988 still valid; prefer **Sweller 2019**, **Barbieri 2023**, **Graham 2020** for current synthesis.
 tags: [kb, pedagogy-general, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: general
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Snow (1972) — Mothers'' speech to children learning language'
 description: '**Discussion (Snow 1972):** simplified input может быть **comprehensible** и **pedagogically structured** — **не** доказательство, что acquisition «полностью зависит» от input (спор с strong nativism о random adult corpus).'
 tags: [cognition-language-acquisition, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: synthesis_from_primary_literature
 world: cognition
 subworld: language-acquisition

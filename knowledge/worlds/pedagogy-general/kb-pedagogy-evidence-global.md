@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Global pedagogy — evidence synthesis v1
 description: '**world:** `pedagogy.general`'
 tags: [kb, pedagogy-general, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: general
 ---

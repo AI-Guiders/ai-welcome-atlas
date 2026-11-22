@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: human perception — troubleshooting'
 description: '> **Контур:** A · kb-public'
 tags: [cognition-human-perception, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: human-perception
 ---

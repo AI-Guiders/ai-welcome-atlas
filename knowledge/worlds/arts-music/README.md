@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **arts.music**
 description: '**Идентификатор мира:** `arts.music`'
 tags: [arts-music, readme, worlds]
-language: ru
+language: ru-RU
 world: arts
 subworld: music
 ---

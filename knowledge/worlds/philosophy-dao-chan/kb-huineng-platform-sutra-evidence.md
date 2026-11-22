@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Сутра платформы, 行由品 — evidence
 description: 因二僧論風幡義，一曰風動，一曰幡動，議論不已。惠能進曰：「不是風動，不是幡動，仁者心動。」
 tags: [evidence-card, kb-evidence-v1, philosophy-dao-chan, chan, l0]
-language: zh
+language: zh-Hans
 epistemic: fact (глава прочитана целиком 2026-09-04)
 world: philosophy
 subworld: dao-chan

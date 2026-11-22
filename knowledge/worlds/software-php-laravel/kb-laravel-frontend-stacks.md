@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'Laravel — фронтенд-стеки: Blade, Livewire, Filament, Inertia'
 description: '**Назначение:** выбор и границы **UI-слоёв** вокруг Laravel без привязки к одной версии пакета (версии — из `composer.lock` / `package.json`). Мир `software.laravel` + `software.web-frontend` (частично).'
 tags: [kb, software-php-laravel, worlds]
-language: ru
+language: ru-RU
 epistemic: inference + fact
 world: software
 subworld: php-laravel

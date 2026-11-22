@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: McLaughlin & Bailey (2023) — spatial thinking in geoscience/geography education'
 description: '**Thesis:** Spatial skills **benefit** learners but get **insufficient classroom practice** — interventions cluster around mapping, sketching, models, gestures; need **longitudinal spatialization** of curriculum.'
 tags: [kb, pedagogy-geography, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: geography
 ---

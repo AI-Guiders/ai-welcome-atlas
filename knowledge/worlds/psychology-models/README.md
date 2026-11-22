@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: 'Мир **psychology.models** (психология: модели, границы, чтение)'
 description: '**Назначение:** операционный контур психологии для KE — классические школы, эмпирика, кросс‑культура, манипуляция/влияние как фундамент; playbook со снимком валидации; карта чтения; L1 тело Gender Studies. **Не** клинические протоколы и не замена терапии.'
 tags: [psychology-models, readme, worlds]
-language: ru
+language: ru-RU
 world: psychology
 subworld: models
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: 'ADR NNN: <Title>'
 description: '```yaml'
 tags: [template, templates, adr]
-language: ru
+language: ru-RU
 ---
 
 # ADR NNN: <Title>

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: pedagogy.mathematics v1'
 description: '**Домен:** математика — school instruction v1'
 tags: [pedagogy-mathematics, status, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: mathematics
 ---

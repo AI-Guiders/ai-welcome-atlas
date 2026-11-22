@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: Neurolinguistics — status v1
 description: '**Домен:** `cognition.neurolinguistics` — brain bases of language, reading, bilingualism'
 tags: [cognition-neurolinguistics, status, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

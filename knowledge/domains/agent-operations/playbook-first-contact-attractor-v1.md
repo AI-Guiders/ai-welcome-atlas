@@ -1,8 +1,8 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: First-contact attractor v1'
 description: Cold habitat contact = **open → onboard scan → plan**, not unbound invent.
-language: en
+language: en-US
 ---
 # Playbook: First-contact attractor v1
 

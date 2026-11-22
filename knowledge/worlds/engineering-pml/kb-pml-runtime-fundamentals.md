@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'KB fundamentals: AVEVA PML runtime (E3D / PDMS) v1'
 description: '**Назначение:** поведение PML **в запущенном продукте** — directives, отладка, жизненный цикл форм, пересборка индекса.'
 tags: [engineering-pml, kb, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: pml
 ---

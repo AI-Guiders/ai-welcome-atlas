@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **rhetoric.pragmatics** (риторика, прагматика, речевые ситуации)
 description: '**World id:** `rhetoric.pragmatics`'
 tags: [rhetoric-pragmatics, readme, worlds]
-language: ru
+language: ru-RU
 world: rhetoric
 subworld: pragmatics
 ---

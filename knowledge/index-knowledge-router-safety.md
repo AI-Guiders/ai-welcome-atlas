@@ -1,9 +1,9 @@
-﻿---
+---
 type: Router
 title: Knowledge Router — Safety Checks v1
 description: '**Роль:** проверки при **чтении** роутера и навигации по KB (сжатый контекст, scope, чувствительные темы, Integrity POST, TPM draft, приватность Cursor). Дополняет блок **А** (маршрутизация) и **Б** (`router-operational-baseline.md`); не заменяет L0 в `agent-notes.md`.'
 tags: [kb-root]
-language: ru
+language: ru-RU
 ---
 # Knowledge Router — Safety Checks v1
 

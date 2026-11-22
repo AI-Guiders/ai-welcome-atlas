@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: полезность и ценность недоопределены'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: полезность и ценность недоопределены
 

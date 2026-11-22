@@ -1,5 +1,11 @@
-﻿# ADR 001: KB Public Publishing Pipeline
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 001: KB Public Publishing Pipeline'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 001: KB Public Publishing Pipeline
 
 
 **Статус:** Accepted  
@@ -53,4 +59,5 @@ KB нужно было публиковать во внешний (shareable) к
 - Непрерывность контекста и истории решений должна сохраняться, но без переноса чувствительного слоя в публичный артефакт.
 
 Именно поэтому в ADR закреплён скриптовый, воспроизводимый конвейер публикации с явными границами.
+
 

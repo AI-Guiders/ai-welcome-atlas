@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Perani & Abutalebi (2015) — bilingual language control & neural adaptation'
 description: '**Thesis:** bilinguals do **not** store languages in isolated boxes — **both languages remain active**; **language control network** (domain-general executive + subcortical) selects, monitors, and inhibits non-target language during production.'
 tags: [cognition-neurolinguistics, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: Drosophila melanogaster — Коннектомы других насекомых (evidence card v1, annotations)
 tags: [biology-drosophila, worlds, kb, evidence, insect-connectomes, comparative, annotation]
-language: ru
+language: ru-RU
 epistemic: annotation (отсутствие полных коннектомов)
 world: biology
 subworld: drosophila

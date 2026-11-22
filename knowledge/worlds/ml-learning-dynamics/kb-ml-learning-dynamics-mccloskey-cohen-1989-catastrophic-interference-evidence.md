@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: McCloskey & Cohen (1989) — Catastrophic interference in connectionist networks'
 description: '*Версия: v1.0 · 2026-05-31 — full text (PLM 24:109–165)*'
 tags: [kb, ml-learning-dynamics, worlds]
-language: ru
+language: ru-RU
 epistemic: primary_peer_reviewed_chapter + эксперименты
 world: ml
 subworld: learning-dynamics

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **philosophy.dao-chan**
 description: '**Идентификатор мира:** `philosophy.dao-chan`'
 tags: [readme, worlds, philosophy-dao-chan, l0]
-language: ru
+language: ru-RU
 world: philosophy
 subworld: dao-chan
 ---

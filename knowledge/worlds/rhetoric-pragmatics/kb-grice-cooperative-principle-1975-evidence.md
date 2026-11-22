@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Grice (1975) — Logic and Conversation'
-description: Участники обмена (ceteris paribus) ожидаются соблюдать:
+description: 'Участники обмена (ceteris paribus) ожидаются соблюдать:'
 tags: [rhetoric-pragmatics, paper-evidence, grice, pragmatics, worlds]
-language: ru
+language: ru-RU
 epistemic: synthesis_from_primary_literature
 world: rhetoric
 subworld: pragmatics

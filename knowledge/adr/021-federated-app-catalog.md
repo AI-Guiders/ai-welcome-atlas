@@ -1,7 +1,13 @@
-﻿# ADR 021: Federated App Catalog — open trust, unified operator journey
+---
+type: ADR
+title: 'ADR 021: Federated App Catalog — open trust, unified operator journey'
+status: stable
+tags: [adr, federation, distribution, desktop, trust]
+language: ru-RU
+---
+# ADR 021: Federated App Catalog — open trust, unified operator journey
 
 **Status:** Accepted (draft charter, 2026-08-28)  
-**Tags:** #adr #federation #distribution #desktop #trust  
 **Related:** [020](020-kb-language-contours.md), friction-book [ch.24](https://github.com/AI-Guiders/friction-book/blob/main/src/24-invisible-desktop-production.en.md), [ch.25](https://github.com/AI-Guiders/friction-book/blob/main/src/25-federated-app-catalog.en.md)  
 **Project:** `federated-app-catalog` (`FAC`) · protocol sub-track: `guiders-platform/platform-app-catalog-v1` (`GPLAT/APPCAT`)
 
@@ -78,4 +84,5 @@ Same **meaning** (install this package safely), different **physical** install p
 
 - Operator charter (RU): `knowledge/work/projects/door-to-singularity/federated-app-catalog/research/note-federated-app-catalog-charter.md`
 - Project card: `…/federated-app-catalog/README.md`
+
 

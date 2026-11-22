@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: software.authoring — troubleshooting'
 description: '> **Контур:** A · kb-public'
 tags: [living, playbook, software-authoring, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

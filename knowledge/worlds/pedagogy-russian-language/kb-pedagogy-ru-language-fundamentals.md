@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Russian language pedagogy — fundamentals v1
 description: '**Мир:** `pedagogy.russian-language`'
 tags: [kb, pedagogy-russian-language, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: russian-language
 ---

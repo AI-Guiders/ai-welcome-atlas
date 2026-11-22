@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Слой 1 — Геном и развитие (biology.drosophila)
 description: '**world-id:** `biology.drosophila` · **Слой:** 1/7 · **Статус:** каркас-инвентаризация (2026-09-19)'
 tags: [biology-drosophila, worlds, kb, genome, development]
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

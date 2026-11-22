@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: pedagogy.visual-arts v1'
 description: '**Домен:** ИЗО — studio thinking v1'
 tags: [pedagogy-visual-arts, status, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: visual-arts
 ---

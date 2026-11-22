@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: 'Note: сила параллельного чтения — худи, которое можно снять (v0)'
 description: '**Domain:** agent-operations'
 tags: [adcm, awareness, parallel, agent-operations, living]
-language: ru
+language: ru-RU
 ---
 # Note: сила параллельного чтения — худи, которое можно снять (v0)
 

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: CASE workbench — scientific evidence index v1
 description: '**Назначение:** индекс evidence-карточек мира `software.case-workbench`. Читать после `status-*` и `playbook-*`.'
 tags: [software-case-workbench, kb, evidence-index, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: case-workbench
 ---

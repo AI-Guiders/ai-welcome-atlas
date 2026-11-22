@@ -1,12 +1,12 @@
-﻿---
+---
 type: KB
 title: Knowledge Engineering Knowledge Set v1 (Operations Rules)
 description: 'Set: 20 cards.'
 tags: [kb, knowledge-engineering, worlds]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-17
+    at: "2026-10-17T00:00:00Z"
 epistemic: '`fact`'
 world: knowledge
 subworld: engineering

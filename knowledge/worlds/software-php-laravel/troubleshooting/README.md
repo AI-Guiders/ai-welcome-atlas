@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Troubleshooting — software.php / software.laravel
 description: 'Индексы: [`../index-knowledge-php-cluster.md`](../index-knowledge-php-cluster.md), [`../index-knowledge-laravel-cluster.md`](../index-knowledge-laravel-cluster.md).'
 tags: [readme, software-php-laravel, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: php-laravel
 ---

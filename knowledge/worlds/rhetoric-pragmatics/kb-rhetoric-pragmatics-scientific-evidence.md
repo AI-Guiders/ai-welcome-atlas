@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Rhetoric & pragmatics — scientific evidence index v1
 description: Индекс evidence-карт и очереди fundamental pass. Полные карточки — отдельные файлы.
 tags: [rhetoric-pragmatics, kb, worlds, evidence-index]
-language: ru
+language: ru-RU
 world: rhetoric
 subworld: pragmatics
 ---

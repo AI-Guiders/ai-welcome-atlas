@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Win-win sensors · cybernetics ↔ Continuity
 description: '**Date:** 2026-08-03'
 tags: [cybernetics, continuity, win-win, ε]
-language: ru
+language: ru-RU
 world: neural
 subworld: network-origins
 ---

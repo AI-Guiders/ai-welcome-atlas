@@ -1,0 +1,17 @@
+{
+  "name": "ai-guiders",
+  "description": "AI Welcome Atlas: Co-existence Handbook — open atlas of worlds, epistemic protocols, and engineering skills for AI agents and humans.",
+  "plugins": [
+    {
+      "name": "ai-welcome-atlas",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "AI Welcome Atlas: Co-existence Handbook — open atlas of worlds, epistemic reconnaissance, OOA&D + blast bound, bug-radius shrink, KB literacy, world authoring, and guided o->u personal memory setup.",
+      "source": ".",
+      "skills": "skills",
+      "tags": ["atlas", "worlds", "epistemic", "ooad", "co-existence", "okf"]
+    }
+  ]
+}
+
+

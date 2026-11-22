@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Playbook — работа с миром biology.drosophila (operational)
 description: '**world-id:** `biology.drosophila` · **Статус:** operational (2026-09-19)'
 tags: [biology-drosophila, worlds, playbook, operational, data, connectome]
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

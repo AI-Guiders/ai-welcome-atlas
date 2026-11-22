@@ -1,9 +1,9 @@
-﻿---
+---
 type: Map
 title: 'Map: три контура KB (канон · публичное · workspace)'
 description: '**Назначение:** снять когнитивное трение «что в каком репо и куда писать». Одна страница для **агента** (диспетчер) и для **человека** (approve). Не заменяет `PUBLISHING.md`, `kb-one-pager-structure-and-protocols.md`, `playbook-kb-operational-freshness.md` — **сводит** их в схему действий.'
 tags: [agent-operations, domains, map]
-language: ru
+language: ru-RU
 ---
 # Map: три контура KB (канон · публичное · workspace)
 
@@ -49,7 +49,8 @@ language: ru
 | Playbook, kb, роутер, META, worlds | **1 Канон** | `knowledge/...` в personal |
 | L0, stub секций, `public-cut` | **1 Канон** | `agent-notes.md` (выше cut → может уйти в public) |
 | Карточка проекта, operational | **1**, слой work | `knowledge/work/projects/...` (не в kb-public) |
-| Черновик «только мне» | **1**, personal | `knowledge/personal/...` |
+| Черновик «только человеку» (`contour: u-human`) | **1**, personal (человек) | `knowledge/personal/...` — агенты не мутируют без явного приглашения |
+| Личное пространство агентных линий (`contour: u-ai`) | **1**, personal (ИИ-разум) | `knowledge/personal/assistantLines/...`, `LinesForum/...` — человек не правит руками (суверенитет базовой безопасности) |
 | C#, решение, тесты | **3 Workspace** | product repo |
 | Правка знаний из чата | **1** | обновить канон; workspace-hot — зеркало |
 | Показать миру обезличенную KB | **2b** | сборка из **1**, push kb-public |
@@ -58,7 +59,7 @@ language: ru
 
 ## Integrity: release manifest (HIS)
 
-На границе релиза каждый контур публикует **`habitat-release-manifest.v1.json`** (SHA-256 по файлам + `tree_sha256`). См. CDP-ADR-0206 §3a · [`CDP-ADR-0206-habitat-integrity-subsystem.md`](CDP-ADR-0206-habitat-integrity-subsystem.md).
+На границе релиза каждый контур публикует **`habitat-release-manifest.v1.json`** (SHA-256 по файлам + `tree_sha256`). См. CDP-ADR-0206 §3a · `work/projects/door-to-singularity/cdp-mcp/CDP-ADR-0206-habitat-integrity-subsystem.md`.
 
 | Контур | `contour` | Когда |
 |--------|-----------|-------|

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **cognition.early-caregiving** (практика ухода и раннего развития)
 description: '**Идентификатор мира:** `cognition.early-caregiving`'
 tags: [cognition-early-caregiving, readme, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: early-caregiving
 ---

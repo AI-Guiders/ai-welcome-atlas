@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: JavaScript — operational playbook v1
 description: '**Purpose:** перевод **fundamentals** (модель языка ECMAScript в KB) в **действия, контракты и проверки** в репозитории и CI.'
 tags: [living, playbook, software-javascript, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: javascript
 ---

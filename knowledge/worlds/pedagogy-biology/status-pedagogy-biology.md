@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: pedagogy.biology v1'
 description: '**Домен:** биология — school 3D learning v1'
 tags: [pedagogy-biology, status, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: biology
 ---

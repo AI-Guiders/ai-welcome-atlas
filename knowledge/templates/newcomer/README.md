@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: '`templates/newcomer/` — онбординг (kb-public → personal · group · white-label)'
 description: 'Публикуется в **kb-public**. Без привязки к конкретной GitHub-org: подставляй **`{ORG_SLUG}`** (slug организации).'
 tags: [readme, templates]
-language: ru
+language: ru-RU
 ---
 # `templates/newcomer/` — онбординг (kb-public → personal · group · white-label)
 

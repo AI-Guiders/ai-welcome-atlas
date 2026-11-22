@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: pedagogy.literature v1'
 description: '**Домен:** литература — disciplinary literacy v1'
 tags: [pedagogy-literature, status, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: literature
 ---

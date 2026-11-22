@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Chemistry pedagogy — router v1
 description: '**world:** `pedagogy.chemistry`'
 tags: [living, pedagogy-chemistry, playbook, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: chemistry
 ---

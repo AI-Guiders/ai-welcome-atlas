@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: Warehouse Domain Status v1
 description: Видеозахват штрихкодов и QR на складе; требования маркетплейсов (Ozon, Wildberries, Яндекс Маркет) к этикеткам; настройка камер и NVR под читаемость кода на записи. Мир **logistics.warehouse**.
 tags: [logistics-warehouse, status, worlds]
-language: ru
+language: ru-RU
 world: logistics
 subworld: warehouse
 ---

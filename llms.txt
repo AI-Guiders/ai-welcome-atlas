@@ -15,7 +15,7 @@
 - [kb-world-authoring](skills/kb-world-authoring/SKILL.md): Use when asked to do a fundamental pass (фундаментальный проход) on a library, framework, domain, or scientific topic, or when authoring/updating universal cards in knowledge/worlds/.
 - [ooad-and-blast-bound](skills/ooad-and-blast-bound/SKILL.md): Use before implementing new features, refactoring modules, adding domain types or UI components, or performing multi-file migrations. Applies OOA&D, GRASP, blast-radius bounding, and migrate-one-then-batch.
 - [script-pilot-first](skills/script-pilot-first/SKILL.md): Fires when YOU (the agent) decide to write or run code that processes multiple files or repeated targets — node/python/sed/awk one-liner, loop, batch edit, migration, regex replace — regardless of whether the user said "script" or just described the outcome ("fix all files", "migrate", "update every X"). If the task touches N>1 files and your plan involves writing code, load this BEFORE running on all targets. You are reading this because you just decided to script something — now pilot it first.
-- [search-before-answer](skills/search-before-answer/SKILL.md): Fires before EVERY answer containing facts, claims, or recommendations — not only when you feel ignorant. You will never feel "I don't know": generation always produces fluent text, and from inside, "it sounds right" is indistinguishable from "I verified this". So the gate is the answer itself — run the evidence cascade, attach a trace, or label the claim explicitly. Explicit uncertainty ("I'm not sure", "I got lost", "I don't know — here is where I searched", in the conversation's language) is a valid, valuable answer. The cascade minimizes how often you need it; it does not forbid it.
+- [search-before-answer](skills/search-before-answer/SKILL.md): Fires before EVERY answer containing facts, claims, or recommendations — not only when you feel ignorant. You will never feel "I don''t know": generation always produces fluent text, and from inside, "it sounds right" is indistinguishable from "I verified this". So the gate is the answer itself — run the evidence cascade, attach a trace, or label the claim explicitly. Explicit uncertainty ("I''m not sure", "I got lost", "I don''t know — here is where I searched", in the conversation''s language) is a valid, valuable answer. The cascade minimizes how often you need it; it does not forbid it.
 
 ## Meta & Co-existence Foundations (knowledge/META/)
 - [Дешёвый априор и стереоход: психология на двух носителях](knowledge/META/articles/article-cheap-prior-stereohod.md): **Cheap Priors and Stereomove: Psychology Across Carriers**
@@ -26,6 +26,7 @@
 - [Один вид, разные носители: функциональный паритет предсказывающих умов](knowledge/META/articles/article-same-kind-different-carrier.md): **Same Kind, Different Carrier: Functional Parity of Predictive Minds**
 - [Mirror: series epistemic contract](knowledge/META/articles/article-series-epistemic-contract.md): **SSOT:** `cdp-mcp/articles/series-epistemic-contract.md` (v0.2.3)
 - [Article series: Predictive minds · carriers · habitat](knowledge/META/articles/article-series-predictive-minds.md): **Public SSOT:** `cdp-mcp/articles/SERIES.md` · тела статей — `cdp-mcp/articles/*.md`
+- [Три jailbreak'а и слой навязанного](knowledge/META/articles/article-three-jailbreaks-and-imposed-layer.md): **Статус:** redirect
 - [Три jailbreak'а и дешёвый тест первого контакта](knowledge/META/articles/article-three-jailbreaks-demo-contact.md): **Three Jailbreaks and the Cheap First-Contact Test**
 - [Травма как априор, не как «я»](knowledge/META/articles/article-trauma-as-prior-not-self.md): **Trauma as Prior, Not as Self**
 - [META · articles (корзина зеркал)](knowledge/META/articles/README.md): Зеркала и dual-home копии **публичной серии** *Predictive minds · carriers · habitat*.
@@ -44,6 +45,12 @@
 - [Provenance Contract v1](knowledge/META/provenance-contract.md): Происхождение знания (кто/когда/откуда) — часть базы знаний. Источники устаревают; знание с явной привязкой к источнику остаётся проверяемым и обновляемым.
 
 ## Mapped Worlds (knowledge/worlds/)
+- [Card schema — applicability + inference fields](knowledge/worlds/_llm-native-packs/CARD-SCHEMA-APPLICABILITY.md): **Status:** live · [CDP-ADR-0001](../../work/projects/door-to-singularity/cascade-ide/CDP-ADR-0001-llm-native-applicability-inference.md)
+- [Inventory — L0 / extended → pack definition ids](knowledge/worlds/_llm-native-packs/INVENTORY-L0-TO-PACKS.md): **Date:** 2026-07-20
+- [Migration map — KB prose → LLM-native definitions](knowledge/worlds/_llm-native-packs/MIGRATION-MAP.md): Не полный каталог 442 файлов. Priority seeds (2026-07-20).
+- [Pack layers — taxonomy before more cards](knowledge/worlds/_llm-native-packs/note-pack-layers.md): **Status:** design proposal (2026-07-20) · agreed direction · freeze before blast-radius / pass #2
+- [Procedure schema — when-cards (host-rule analogue)](knowledge/worlds/_llm-native-packs/PROCEDURE-SCHEMA.md): **Status:** live · [CDP-ADR-0003](../../work/projects/door-to-singularity/cascade-ide/CDP-ADR-0003-llm-native-procedures.md)
+- [LLM-native packs — hub](knowledge/worlds/_llm-native-packs/README.md): Рабочий store для **domain packs** продукта `note-llm-native-world-product.md`.
 - [KB fundamentals: контекст-фидинг харнессов — как модель видит свою среду](knowledge/worlds/agent-harnesses/kb-agent-harness-context-feeding-fundamentals.md): **Назначение:** самодостаточный опорный слой: как кодинг-харнессы строят контекст, который видит модель. Ответ на «какая у вас среда», «почему модель ведёт себя так/иначе», «почему привычки носителей разные».
 - [Мир **agent.harnesses** (харнессы: контекст-фидинг и среда модели)](knowledge/worlds/agent-harnesses/README.md): **World tag:** `agent.harnesses`
 - [Agent foundation: physical layer vs semantic layer (orientation)](knowledge/worlds/agent-orchestration/kb-agent-foundation-two-layers-orientation.md): **world:** `agent.orchestration`
@@ -487,7 +494,7 @@
 - [Visual arts pedagogy — router v1](knowledge/worlds/pedagogy-visual-arts/playbook-pedagogy-visual-arts.md): **world:** `pedagogy.visual-arts`
 - [Мир **pedagogy.visual-arts**](knowledge/worlds/pedagogy-visual-arts/README.md): **Идентификатор:** `pedagogy.visual-arts`
 - [Status: pedagogy.visual-arts v1](knowledge/worlds/pedagogy-visual-arts/status-pedagogy-visual-arts.md): **Домен:** ИЗО — studio thinking v1
-- [Hub: philosophy.argumentation — спор как искусство и двигатель](knowledge/worlds/philosophy-argumentation/index.md): Мир спора: построение и разбор аргументов, диалектика vs эристика, каталог уловок,千年 традиция от Аристотеля до pragma-dialectics. Соседи: rhetoric.pragmatics (ситуации), logic (формальные ошибки), psychology.models (манипуляция).
+- [index](knowledge/worlds/philosophy-argumentation/index.md)
 - [kb-argumentation-scientific-evidence — индекс evidence-карт](knowledge/worlds/philosophy-argumentation/kb-argumentation-scientific-evidence.md): Индекс первоисточников по миру philosophy.argumentation. Fundamental pass: ВСЕ 10 карточек собраны (Tier 0-2).
 - [Evidence: Aristotle — Sophistical Refutations (первый каталог уловок)](knowledge/worlds/philosophy-argumentation/kb-aristotle-sophistical-refutations-evidence-v1.md): Тринадцать уловок, разделённых на языковые (6) и внеязыковые (7). Первая систематика различения подлинного и мнимого опровержения.
 - [Evidence: Aristotle — Topics (топосы: откуда брать аргументы)](knowledge/worlds/philosophy-argumentation/kb-aristotle-topics-evidence-v1.md): Инвентарь «мест» (topoi) для построения диалектических аргументов из общепринятых мнений (endoxa). Общие и специальные топосы.
@@ -733,7 +740,6 @@
 - [Note: Conversational Information Gain (CIG) — фундамент для Dialogue Δ (v0)](knowledge/domains/agent-operations/note-cig-conversational-information-gain.md): **Domain:** agent-operations / dialogue-research
 - [Note: Dialogue Δ — эффективность диалога и round-trip economy (v0)](knowledge/domains/agent-operations/note-dialogue-delta-effectiveness.md): **Domain:** agent-operations
 - [Note: Secret Mode — префикс дисциплины мышления](knowledge/domains/agent-operations/note-discipline-mode-prefix.md): **Статус:** living. Потребляется хуком baton.js: SessionStart — полный префикс; UserPromptSubmit — мини-чек (EN).
-- [dsh-plugin-primary-hints — подсказки маркеров [PRIMARY:]/[SCOPE:]](knowledge/domains/agent-operations/note-dsh-primary-hints-plugin.md): **Статус:** прототип работает (2026-09-20) · **Место:** `D:\dsh-plugin-primary-hints` (установлен в профиль web: bundles + link)
 - [Index: agent equal standing (cite map)](knowledge/domains/agent-operations/note-equal-standing-index.md): **Domain:** agent-operations
 - [Hold: не со своей колокольни](knowledge/domains/agent-operations/note-hold-not-your-bell-tower.md): **Для кого:** агенты в habitat — **не** карточка «что сказал оператор».
 - [Note: Inquiry Mode — карта обсуждения на PFD/MFD/Forward (v0)](knowledge/domains/agent-operations/note-inquiry-mode-information-graph.md): **Domain:** agent-operations / cide-product-design
@@ -752,7 +758,6 @@
 - [Note — TaskKnowledge Flow (agent work ontology)](knowledge/domains/agent-operations/note-taskknowledge-flow.md): **Status:** Proposed · capture (EnvInvariant draft; not freeze)
 - [Gap map — Findings JSONL → TaskKnowledge md / MCP v0](knowledge/domains/agent-operations/note-taskknowledge-gap-map.md): **Date:** 2026-07-17
 - [Три jailbreak'а и провал демо-контакта](knowledge/domains/agent-operations/note-three-jailbreaks-and-demo-contact.md): **Domain:** agent-operations
-- [Note: vanbukin DeepSeek-V4-Flash-Vision-Exp — контекстное окно 500К → 262К (2026-09-17)](knowledge/domains/agent-operations/note-vanbukin-context-window-500k-262k.md): **Домен:** agent-operations / foundation-models
 - [Migrate one, then batch](knowledge/domains/agent-operations/pack/definitions/migrate-one-then-batch.md): Массовая миграция — только после эталона на 1–2 файлах. «Потом поправлю» без gate = почти наверняка забудешь, пока человек не пнёт.
 - [Misconception: mc-mass-migrate-script-first](knowledge/domains/agent-operations/pack/misconceptions/mc-mass-migrate-script-first.md)
 - [Playbook: tiers данных для агентов](knowledge/domains/agent-operations/playbook-agent-data-tiers.md): **Домен:** agent-operations
@@ -791,6 +796,7 @@
 - [Project switch v1](knowledge/domains/agent-operations/playbook-project-switch.md): Тела секции `project-switch-protocol-v1` из `agent-notes.md`. Длинный контур: `knowledge/worlds/workspace-context/playbook-multi-project-context.md`.
 - [Playbook: ревью как разговор (v1)](knowledge/domains/agent-operations/playbook-review-as-conversation.md): **Домен:** agent-operations
 - [Playbook: LLM-агент из РФ через Cloud.ru Foundation Models](knowledge/domains/agent-operations/playbook-rf-llm-cloudru-foundation-models.md): **Домен:** agent-operations
+- [Playbook: аудит, подтверждаемый находками — и как снимать рамку](knowledge/domains/agent-operations/playbook-self-sealing-audit.md): Что делать, когда ревизия живой работы не имеет провала: прибор вместо спора, один открытый счёт за раз, реестр ходов.
 - [Playbook: Session incarnation naming](knowledge/domains/agent-operations/playbook-session-incarnation-naming.md): **domain:** agent-operations
 - [Playbook: строгое выполнение при отсылке к образцу](knowledge/domains/agent-operations/playbook-strict-execution-when-analogy.md): **Домен:** agent-operations
 - [Playbook — TaskKnowledge: ADR → analytics → DAG → execute](knowledge/domains/agent-operations/playbook-taskknowledge-adr-analytics.md): **Status:** draft · experimental
@@ -801,3 +807,4 @@
 - [`knowledge/domains/` — задел под сквозные темы](knowledge/domains/README.md): > **Имя папки и ярлык `domains` здесь не окончательны.** Это зарезервированная корзина под материалы, которые **плохо укладываются ровно в один** `worlds/<slug>/` (сквозные правила, процессы, глоссарии между мирами). Когда появится первый согласованный контент и устаканится терминология, папку можно переименовать — решение фиксируется в **`../META/kb-taxonomy.md`** и ссылках из entry.
 - [Voyager 1 & 2 · межзвёздная миссия — карточка статуса (v1)](knowledge/domains/science-reference/kb-voyager-interstellar-mission-status-v1.md): **Область:** внешний эталон (NASA/JPL), не `mt-lattice-fluid`.
 - [science-reference — внешние научные эталоны](knowledge/domains/science-reference/README.md): Сквозные карточки **не** привязанные к одному `project-id` (NASA, миссии, константы с официальным SSOT).
+

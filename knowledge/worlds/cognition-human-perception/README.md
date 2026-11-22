@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **cognition.human-perception**
 description: '**Идентификатор мира:** `cognition.human-perception`'
 tags: [cognition-human-perception, readme, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: human-perception
 ---

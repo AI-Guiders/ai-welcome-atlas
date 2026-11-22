@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: GRASP — Information Expert
 description: Ответственность тому, кто владеет данными для задачи.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

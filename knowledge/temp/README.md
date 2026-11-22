@@ -1,8 +1,8 @@
-﻿---
+---
 type: Index
 title: '`knowledge/temp/` — external WM агента (scratch)'
 description: '**Статус:** операционная корзина · не kb-public · не канон'
-language: ru
+language: ru-RU
 ---
 # `knowledge/temp/` — external WM агента (scratch)
 

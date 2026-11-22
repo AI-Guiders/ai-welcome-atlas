@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: SOLID — Single Responsibility
 description: У модуля одна причина меняться.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

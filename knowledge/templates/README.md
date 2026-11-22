@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: '`knowledge/templates/` — шаблоны (каркасы для копирования)'
 description: 'Не живые экземпляры под один workspace. Контракт корзины: **`../META/kb-taxonomy.md`**.'
 tags: [readme, templates]
-language: ru
+language: ru-RU
 ---
 # `knowledge/templates/` — шаблоны (каркасы для копирования)
 

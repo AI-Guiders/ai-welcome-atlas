@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: OOD — Object-Oriented Design
 description: 'Спроектировать программную структуру: типы, ответственности, связи — реализуемо в коде.'
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

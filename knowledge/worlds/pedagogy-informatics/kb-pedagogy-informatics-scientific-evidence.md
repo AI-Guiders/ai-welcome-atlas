@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Informatics pedagogy — scientific evidence index v1
 description: '**Lee 2022** CS/CT systematic review + **PRIMM 2021**; K12CS 2016 foundational standards.'
 tags: [kb, pedagogy-informatics, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: informatics
 ---

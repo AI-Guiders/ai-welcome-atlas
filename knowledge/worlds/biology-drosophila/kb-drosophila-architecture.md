@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 title: Инженерная архитектура Drosophila melanogaster (схема)
 description: '**world-id:** `biology.drosophila` · **Дата:** 2026-09-19'
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'Laravel — связь с Symfony: компоненты и границы ответственности'
 description: '**Назначение:** объяснить, **почему** в Laravel встречаются классы и концепции Symfony (HttpFoundation, Console, Process, …) и **когда** идти в документацию symfony.com. Мир `software.laravel` + пересечение с `software.php`.'
 tags: [kb, software-php-laravel, worlds]
-language: ru
+language: ru-RU
 epistemic: fact + inference
 world: software
 subworld: php-laravel

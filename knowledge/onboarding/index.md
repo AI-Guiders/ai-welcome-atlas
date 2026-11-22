@@ -1,14 +1,3 @@
-﻿---
-type: Index
-title: Onboarding — кого онбордим
-description: Среда онбордит три вида новичков — три двери, один дом:
-tags: [onboarding, index, agent-operations, public]
-language: ru
-verified:
-  - by: human:operator
-    at: 2026-10-26
----
-
 # Onboarding — кого онбордим
 
 Среда онбордит три вида новичков — три двери, один дом:

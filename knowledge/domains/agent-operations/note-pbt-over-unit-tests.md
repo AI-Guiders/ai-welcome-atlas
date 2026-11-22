@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: PBT по умолчанию (v1)
 description: '**Прецедент:** `AgentNotes.Okf.Tests` (18 тестов, `feature/okf-migration` guiders-core) — первые PBT в репо; стектрейс-факты сохраняются рядом как регрессии контрпримеров.'
 tags: [pbt, fscheck, testing, agent-operations, dotnet]
-language: ru
+language: ru-RU
 world: agent
 subworld: operations
 ---

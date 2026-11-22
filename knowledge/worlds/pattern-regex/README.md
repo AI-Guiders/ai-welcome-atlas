@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pattern.regex** (кластер MRE3 / Friedl)
 description: '**Назначение:** регулярные выражения — операционный контракт, шпаргалка L0, синтаксис L1, движки и Unicode L2, диалекты (.NET, JS, PCRE, Java), карта глав русского издания Friedl.'
 tags: [pattern-regex, readme, worlds]
-language: ru
+language: ru-RU
 world: pattern
 subworld: regex
 ---

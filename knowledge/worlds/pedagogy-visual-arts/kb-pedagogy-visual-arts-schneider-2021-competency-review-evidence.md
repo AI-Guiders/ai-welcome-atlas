@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Schneider & Rohmann (2021) — arts in education competency outcomes (systematic review)'
 description: '**Thesis:** Quasi-experimental arts education research shows **some** competency benefits but evidence is **sparse, small-N, heterogeneous** — avoid instrumental hype; support **intrapersonal/interpersonal + discipline habits**.'
 tags: [kb, pedagogy-visual-arts, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: visual-arts
 ---

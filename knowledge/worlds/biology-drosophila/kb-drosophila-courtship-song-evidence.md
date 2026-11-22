@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: Drosophila melanogaster — Ухаживание/песня и популяционная дифференциация (evidence card v1)
 tags: [biology-drosophila, worlds, kb, evidence, courtship, song, speciation, qst, qtl]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

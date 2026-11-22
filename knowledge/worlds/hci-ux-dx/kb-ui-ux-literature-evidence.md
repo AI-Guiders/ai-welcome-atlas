@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: UI/UX — литературный evidence (Norman, Nielsen, Shneiderman, Krug) v1
 description: Цель — свод принципов для проектирования интерфейсов и оценки UX (в т.ч. IDE и инструментов). Источники перечислены в Provenance.
 tags: [hci-ux-dx, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: literature_synthesis
 world: hci
 subworld: ux-dx

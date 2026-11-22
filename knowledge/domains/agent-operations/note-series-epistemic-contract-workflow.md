@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: 'Note: workflow границ серии Predictive minds (authors / agents)'
 description: '**Не manuscript.** Операционка для авторов и агентов при правке `cdp-mcp/articles/`. Публичный SSOT границ — `cdp-mcp/articles/series-epistemic-contract.md` (только §2–§7, без этого файла).'
 tags: [agent-operations, meta, articles, series]
-language: ru
+language: ru-RU
 ---
 # Note: workflow границ серии Predictive minds (authors / agents)
 

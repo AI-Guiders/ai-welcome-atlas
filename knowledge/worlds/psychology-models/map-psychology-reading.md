@@ -1,8 +1,8 @@
-﻿---
+---
 type: Map
 description: Build a layered, evidence-aware psychology base from classical schools to modern validation.
 tags: [map, psychology-models, worlds]
-language: en
+language: en-US
 world: psychology
 subworld: models
 ---

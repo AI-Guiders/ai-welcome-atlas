@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Git / PR — troubleshooting'
 description: '> **Контур:** A · kb-public'
 tags: [collaboration-git-pr, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: collaboration
 subworld: git-pr
 ---

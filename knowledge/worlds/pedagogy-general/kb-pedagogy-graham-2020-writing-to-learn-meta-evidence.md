@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Graham et al. (2020) — writing-to-learn meta (STEM + humanities)'
 description: '**Thesis:** Having students **write to explain/summarize** content in science, social studies, and mathematics produces **positive, significant** learning gains vs no-writing controls.'
 tags: [kb, pedagogy-general, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: general
 ---

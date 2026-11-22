@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Ontological deprivation
 description: 'Не газлайтинг (исказить уже существующую карту), а лишение права *сформировать* карту: правила бытия меняются в момент шага непредсказуемо; нет стабильных «если X → Y».'
 tags: [llm-native-card, definition, methodology, l0]
-language: ru
+language: ru-RU
 world: epistemic
 subworld: methodology
 ---

@@ -107,3 +107,4 @@ Operational playbook **внутри `worlds/`** описывает **как аг
 | Политика публикации | `PUBLISHING.md` |
 | Шаблоны миров | `templates/worlds/` |
 | One-pager | `kb-one-pager-structure-and-protocols.md` § Публикация |
+

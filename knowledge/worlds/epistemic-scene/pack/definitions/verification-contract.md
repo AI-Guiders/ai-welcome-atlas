@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Verification Contract
 description: Связка invariant → test → evidence_slot между Analyze и Execute.
 tags: [llm-native-card, definition, epistemic-scene, agent-operations]
-language: en
+language: en-US
 world: epistemic
 subworld: scene
 ---

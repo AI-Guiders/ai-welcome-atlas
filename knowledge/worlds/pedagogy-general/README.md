@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.general**
 description: '**Идентификатор мира:** `pedagogy.general`'
 tags: [pedagogy-general, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: general
 ---

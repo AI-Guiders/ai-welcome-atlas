@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Mode switch v1
 description: 'Тело секции `mode-switch-protocol` из `agent-notes.md`. Связь: `playbook-project-switch.md` (PRIMARY/SCOPE), `kb-protocols-and-entities-one-pager.md`.'
 tags: [agent-operations, domains, living, playbook]
-language: en
+language: en-US
 sections: [mode-switch-protocol]
 ---
 # Mode switch v1

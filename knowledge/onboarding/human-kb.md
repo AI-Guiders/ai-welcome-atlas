@@ -1,12 +1,12 @@
-﻿---
+---
 type: Onboarding
 title: Human → KB — чистая установка канона
 description: Ты — человек, поднимающий базу знаний (свою или организации). Здесь маршруты, без пересказа — детали в живых документах.
 tags: [onboarding, human, clean-setup, kb, public]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-26
+    at: "2026-10-26T00:00:00Z"
 ---
 
 # Human → KB — чистая установка канона

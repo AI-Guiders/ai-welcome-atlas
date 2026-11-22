@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: History pedagogy — fundamentals v1
 description: '**Мир:** `pedagogy.history`'
 tags: [kb, pedagogy-history, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: history
 ---

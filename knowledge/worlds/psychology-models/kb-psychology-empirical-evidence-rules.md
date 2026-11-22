@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Psychology Knowledge Set v1 (Empirical Evidence Rules)
 description: 'Set: 20 cards.'
 tags: [kb, psychology-models, worlds]
-language: en
+language: en-US
 epistemic: '`fact`'
 world: psychology
 subworld: models

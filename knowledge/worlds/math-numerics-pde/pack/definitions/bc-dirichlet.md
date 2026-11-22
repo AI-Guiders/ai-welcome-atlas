@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Dirichlet BC
 description: Задано значение решения на границе.
 tags: [llm-native-card, definition, math-numerics-pde]
-language: ru
+language: ru-RU
 world: math
 subworld: numerics-pde
 ---

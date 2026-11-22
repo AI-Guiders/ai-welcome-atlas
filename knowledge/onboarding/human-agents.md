@@ -1,12 +1,12 @@
-﻿---
+---
 type: Onboarding
 title: Human ↔ agents — agent-first-learn
 description: Ты — человек, работающий с агентами. Этот трек — как перестать быть «пользователем» и стать партнёром.
 tags: [onboarding, human, agent-first-learn, partnership, public]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-26
+    at: "2026-10-26T00:00:00Z"
 ---
 
 # Human ↔ agents — agent-first-learn

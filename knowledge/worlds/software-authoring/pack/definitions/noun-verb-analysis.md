@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Noun/verb analysis
 description: Существительные → кандидаты в типы; глаголы → операции/сценарии.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

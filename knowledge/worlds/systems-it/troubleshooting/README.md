@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Troubleshooting — systems.it
 description: 'Hub: [`../README.md`](../README.md). Cloud economics: [`../playbook-it-cloud-platform-economics-diagnostics.md`](../playbook-it-cloud-platform-economics-diagnostics.md).'
 tags: [readme, systems-it, worlds]
-language: en
+language: en-US
 world: systems
 subworld: it
 ---

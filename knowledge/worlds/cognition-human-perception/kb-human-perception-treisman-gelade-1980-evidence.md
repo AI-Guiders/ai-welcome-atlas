@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Treisman & Gelade (1980) — Feature Integration Theory'
 description: '*Версия карточки: v1.2 · 2026-04-20 — семантическое имя `*-evidence-v1` (канон `kb-*-evidence-v1`).*'
 tags: [cognition-human-perception, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: synthesis_from_primary_literature
 world: cognition
 subworld: human-perception

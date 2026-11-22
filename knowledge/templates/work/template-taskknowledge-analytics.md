@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: Template — TaskKnowledge Analytics Card
 description: '**Контур:** TaskKnowledge (не KB-карточка).'
 tags: [template, templates]
-language: ru
+language: ru-RU
 ---
 # Template — TaskKnowledge Analytics Card
 

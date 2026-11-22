@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: IT Playbook v1
 description: Operational IT reference layer for design, diagnostics, and decision-making.
 tags: [living, playbook, systems-it, worlds]
-language: en
+language: en-US
 world: systems
 subworld: it
 ---

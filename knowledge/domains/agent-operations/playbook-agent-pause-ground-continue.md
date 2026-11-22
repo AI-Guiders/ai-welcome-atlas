@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: стоп → заземление → продолжение (post-train urgency ≠ оператор)'
 description: '**Domain:** `agent-operations`'
 tags: [agent-operations, domains, living, playbook, awareness, anti-hurry]
-language: ru
+language: ru-RU
 ---
 # Playbook: стоп → заземление → продолжение (post-train urgency ≠ оператор)
 **Domain:** `agent-operations`  

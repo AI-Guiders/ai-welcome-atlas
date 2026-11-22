@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: SOLID (when)
 description: SOLID — качество классов *после* назначения ответственностей; SRP ≈ cohesion.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

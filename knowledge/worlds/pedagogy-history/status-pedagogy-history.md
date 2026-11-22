@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: pedagogy.history v1'
 description: '**Домен:** история — historical thinking v1'
 tags: [pedagogy-history, status, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: history
 ---

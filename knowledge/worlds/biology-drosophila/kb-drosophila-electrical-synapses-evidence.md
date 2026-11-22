@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: Drosophila melanogaster — Электрические синапсы (gap junctions), GF-система (evidence card v1)
 tags: [biology-drosophila, worlds, kb, evidence, gap-junction, innexin, electrical-synapse, giant-fiber]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста eNeuro 2025)
 world: biology
 subworld: drosophila

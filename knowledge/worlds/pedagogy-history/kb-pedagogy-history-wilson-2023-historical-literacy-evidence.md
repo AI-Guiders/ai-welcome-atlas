@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Wilson et al. (2023) — historical literacy interventions (systematic review)'
 description: '**Thesis:** 30 years of intervention research summarized — **historical epistemology skills** improve when teaching uses **discipline-specific scaffolds/heuristics**, not generic comprehension alone.'
 tags: [kb, pedagogy-history, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: history
 ---

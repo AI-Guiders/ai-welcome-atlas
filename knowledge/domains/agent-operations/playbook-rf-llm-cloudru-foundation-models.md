@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: LLM-агент из РФ через Cloud.ru Foundation Models'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: LLM-агент из РФ через Cloud.ru Foundation Models
 

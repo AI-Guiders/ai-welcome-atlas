@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: Drosophila melanogaster — Нейромедиаторы и модуляция (evidence card v1)
 tags: [biology-drosophila, worlds, kb, evidence, neurotransmitter, octopamine, modulation, cotransmission]
-language: ru
+language: ru-RU
 epistemic: fact (из полных текстов)
 world: biology
 subworld: drosophila

@@ -1,8 +1,8 @@
-﻿---
+---
 type: Transfer Matrix
 description: '**world:** `pedagogy.general`'
 tags: [pedagogy-general, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: general
 ---

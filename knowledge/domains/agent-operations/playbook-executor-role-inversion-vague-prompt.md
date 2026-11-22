@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: инверсия роли исполнителя при размытом промпте'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, playbook, elicitation, equal-standing, explainable-preference, v1]
-language: ru
+language: ru-RU
 speech_situation:
   audience: agent_internal
   goal: operational_protocol

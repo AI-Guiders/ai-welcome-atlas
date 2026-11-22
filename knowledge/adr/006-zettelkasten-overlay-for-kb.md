@@ -1,5 +1,11 @@
-﻿# ADR 006: Zettelkasten Overlay for KB
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 006: Zettelkasten Overlay for KB'
+status: draft
+tags: [adr]
+language: ru-RU
+---
+# ADR 006: Zettelkasten Overlay for KB
 
 
 **Статус:** Proposed  
@@ -82,4 +88,5 @@
 - Нужен ли отдельный формат front-matter или достаточно markdown-полей по шаблону?
 - Какие метрики считать "успехом" пилота (время поиска, повторное использование, качество ответов)?
 - В какой момент links становятся обязательными для заметки?
+
 

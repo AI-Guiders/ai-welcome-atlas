@@ -1,8 +1,8 @@
-﻿---
+---
 type: Misconception Card
 title: 'Misconception: mc-human-default-pf'
 tags: [llm-native-card, misconception, epistemic-scene, harness, cdp, pair]
-language: ru
+language: ru-RU
 world: epistemic
 subworld: scene
 ---

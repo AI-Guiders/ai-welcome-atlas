@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Experiment space (LLM-native)
 description: 'Явное место для проб до durable write — what-if, probe tools, sandbox, held-out checks. Результаты = evidence/hypothesis. Playground до изменений: даёт PF темп без PM-realtime-accept и место, где PM успевает прервать/направить до blast в код.'
 tags: [llm-native-card, definition, epistemic-scene, cdp-adr-0002, harness]
-language: ru
+language: ru-RU
 world: epistemic
 subworld: scene
 ---

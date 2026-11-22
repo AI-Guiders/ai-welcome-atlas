@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: KISS
 description: Keep It Simple — ориентир, не догма; отступление осознанно.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

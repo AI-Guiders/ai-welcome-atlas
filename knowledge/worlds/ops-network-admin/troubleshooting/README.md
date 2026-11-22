@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Troubleshooting — ops.network-admin
 description: 'Операционные playbooks: `../playbook-ssh-operations.md`, `../playbook-nginx-admin.md`, `../playbook-wireshark-network.md`, `../playbook-1c-admin.md`.'
 tags: [ops-network-admin, readme, worlds]
-language: ru
+language: ru-RU
 world: ops
 subworld: network-admin
 ---

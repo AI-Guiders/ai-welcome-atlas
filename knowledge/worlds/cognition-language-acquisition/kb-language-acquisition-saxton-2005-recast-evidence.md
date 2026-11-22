@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Saxton (2005) — Recast in a New Light (review)'
 description: '*Версия: v1.1 · 2026-05-31 — full text (UCL Recast23 PDF)*'
 tags: [cognition-language-acquisition, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: synthesis_from_primary_literature (review)
 world: cognition
 subworld: language-acquisition

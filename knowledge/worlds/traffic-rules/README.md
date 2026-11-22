@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Traffic Rules Knowledge Set v1
 description: 'Мир: своды дорожных правил по юрисдикциям. Создан 2026-10-13 по требованию'
 tags: [traffic-rules, kb, worlds, pdd]
-language: ru
+language: ru-RU
 world: traffic
 subworld: rules
 ---

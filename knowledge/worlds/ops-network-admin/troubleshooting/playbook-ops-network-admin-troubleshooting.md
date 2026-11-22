@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: ops.network-admin — troubleshooting'
 description: '> **Контур:** A · мир **ops.network-admin** · kb-public'
 tags: [living, ops-network-admin, playbook, worlds]
-language: ru
+language: ru-RU
 world: ops
 subworld: network-admin
 ---

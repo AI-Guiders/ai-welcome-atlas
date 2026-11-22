@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Elliptic PDE
 description: Steady-state / potential (Poisson/Laplace); BCs on boundary, no time IC.
 tags: [llm-native-card, definition, math-numerics-pde]
-language: en
+language: en-US
 world: math
 subworld: numerics-pde
 ---

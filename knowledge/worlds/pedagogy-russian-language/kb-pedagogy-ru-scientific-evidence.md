@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Russian language pedagogy — scientific evidence index v1
 description: '**Stalega 2024** + **Hansford 2025** for 2020s replication; Castles/Ehri/NRP core stack unchanged.'
 tags: [kb, pedagogy-russian-language, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: russian-language
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Session incarnation naming'
 description: '**domain:** agent-operations'
 tags: [identity, incarnation, naming, session-close, lineage]
-language: ru
+language: ru-RU
 ---
 # Playbook: Session incarnation naming
 **domain:** agent-operations  

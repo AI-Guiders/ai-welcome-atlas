@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Rhetoric & pragmatics — fundamentals v1
 description: Синтез spine (не замена evidence-карт). При споре — первоисточник в `kb-*-evidence-v1`.
 tags: [rhetoric-pragmatics, kb, worlds, fundamentals]
-language: ru
+language: ru-RU
 world: rhetoric
 subworld: pragmatics
 ---

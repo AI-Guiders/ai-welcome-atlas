@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: JavaScript (ECMAScript) v1'
 description: '**Канон перечня артефактов домена:** § Closure snapshot ниже. В `index-knowledge-router.md` в таблице доменов — короткая строка; полная карта **fundamentals → operational** — `index-knowledge-javascript-cluster.md`.'
 tags: [software-javascript, status, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: javascript
 ---

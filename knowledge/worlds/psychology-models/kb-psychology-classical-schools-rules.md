@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: 'Set: 24 cards.'
 tags: [kb, psychology-models, worlds]
-language: en
+language: en-US
 epistemic: '`fact`'
 world: psychology
 subworld: models

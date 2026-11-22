@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: SOLID — Open/Closed
 description: Открыт к расширению, закрыт к ломающей правке.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

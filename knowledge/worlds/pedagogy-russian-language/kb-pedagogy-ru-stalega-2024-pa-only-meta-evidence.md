@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Stalega et al. (2024) — PA-only vs print-based instruction'
 description: '**Question:** Is PA instruction **without print** as effective for reading outcomes as **print-based** instruction (phonics)?'
 tags: [kb, pedagogy-russian-language, worlds]
-language: en
+language: en-US
 epistemic: quantitative_meta_analysis (38 studies, 293 ES, RVE)
 world: pedagogy
 subworld: russian-language

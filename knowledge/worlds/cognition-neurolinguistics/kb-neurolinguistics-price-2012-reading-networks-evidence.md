@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Price (2012) — neural synthesis of speech, language, and reading'
 description: '**Thesis:** language and reading rely on **distributed, overlapping networks** — not a single Broca/Wernicke pair. Reading dissociates **sublexical**, **lexical**, and **semantic** neural pathways (Marshall & Newcombe 1973 legacy confirmed in imaging).'
 tags: [cognition-neurolinguistics, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

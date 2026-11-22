@@ -1,9 +1,9 @@
-﻿---
+---
 type: Map
 title: 'Map: fundamental pass — rhetoric & pragmatics v1'
 description: Очередь **первоисточников** для evidence-карт. Статус карточки — в [`kb-rhetoric-pragmatics-scientific-evidence.md`](kb-rhetoric-pragmatics-scientific-evidence.md).
 tags: [rhetoric-pragmatics, map, worlds]
-language: ru
+language: ru-RU
 world: rhetoric
 subworld: pragmatics
 ---

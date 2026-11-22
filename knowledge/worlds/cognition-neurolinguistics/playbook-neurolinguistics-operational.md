@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Neurolinguistics — router v1
 description: '**world:** `cognition.neurolinguistics`'
 tags: [cognition-neurolinguistics, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: neurolinguistics
 ---

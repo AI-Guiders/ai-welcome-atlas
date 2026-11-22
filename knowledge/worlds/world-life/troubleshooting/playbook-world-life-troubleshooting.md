@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: world-life — troubleshooting'
 description: '> **Контур:** A · kb-public'
 tags: [living, playbook, world-life, worlds]
-language: ru
+language: ru-RU
 world: world
 subworld: life
 ---

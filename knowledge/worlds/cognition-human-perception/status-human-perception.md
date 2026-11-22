@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: Human perception domain — status v1
 description: 'Психофизиологически мотивированный слой между **когнитивными основами** и **операционными** правилами UX/IDE/агента: внимание, нагрузка, стресс, заметность — без претензии на клиническую полноту.'
 tags: [cognition-human-perception, status, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: human-perception
 ---

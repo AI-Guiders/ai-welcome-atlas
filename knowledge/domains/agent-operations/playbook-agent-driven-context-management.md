@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Agent-driven context management (ADCM) v1'
 description: '**Domain:** agent-operations'
 tags: [adcm, agent-operations, domains, harness, living, playbook, ssot]
-language: ru
+language: ru-RU
 ---
 # Playbook: Agent-driven context management (ADCM) v1
 

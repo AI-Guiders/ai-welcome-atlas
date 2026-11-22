@@ -1,8 +1,8 @@
-﻿---
+---
 type: Note
 description: Этот файл задаёт явные правила, **какие части KB можно выкладывать публично**, а какие остаются только локально.
 tags: [kb-root]
-language: ru
+language: ru-RU
 ---
 
 ## Публикация KB: что входит, а что нет
@@ -26,7 +26,7 @@ language: ru
 
 ### Release manifest (HIS federation leg)
 
-Каждый **полный релиз** артефакта несёт **`habitat-release-manifest.v1.json`** в корне сборки (спека: CDP-ADR-0206 §3a · pointer [`domains/agent-operations/CDP-ADR-0206-habitat-integrity-subsystem.md`](domains/agent-operations/CDP-ADR-0206-habitat-integrity-subsystem.md)).
+Каждый **полный релиз** артефакта несёт **`habitat-release-manifest.v1.json`** в корне сборки (спека: CDP-ADR-0206 §3a · pointer `work/projects/door-to-singularity/cdp-mcp/CDP-ADR-0206-habitat-integrity-subsystem.md`).
 
 | Контур | `contour` | Скрипт | Артефакт | Manifest |
 |--------|-----------|--------|----------|----------|

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.history**
 description: '**Идентификатор:** `pedagogy.history`'
 tags: [pedagogy-history, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: history
 ---

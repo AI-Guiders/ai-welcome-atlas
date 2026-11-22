@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Обучение и память: MB, OA/DA-модуляция (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, mushroom-body, learning, memory, octopamine, dopamine]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

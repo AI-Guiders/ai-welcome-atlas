@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: .NET Roslyn and Debug Playbook v1
 description: Specialized playbook for C# diagnostics, refactorings, and debug workflows in .NET projects.
 tags: [software-dotnet-tooling-roslyn, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-tooling-roslyn
 ---

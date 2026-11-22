@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: WWC (2022) — dual language programs intervention report'
 description: '**Thesis:** WWC reviewed **dual language** (≥50% partner language, multi-year) — potential for **both** EL and English speakers; **few studies meet rigorous causal designs**.'
 tags: [kb, pedagogy-second-native-language, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: second-native-language
 ---

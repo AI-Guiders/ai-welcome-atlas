@@ -1,9 +1,9 @@
-﻿---
+---
 type: Map
 title: World-life subworlds map v1
 description: 'Тела секций `world-*`, перенесённые из `agent-notes.md`. Те же `section_id` — stub в hot; полный текст: `read_knowledge_file` / `route_context`.'
 tags: [map, world-life, worlds]
-language: ru
+language: ru-RU
 world: world
 subworld: life
 status: stable

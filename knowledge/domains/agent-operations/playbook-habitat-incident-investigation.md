@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Habitat incident investigation'
 description: '**domain:** agent-operations'
 tags: [habitat, incident, investigation, just-culture, losa, cdp, agent-operations, aviation-transfer]
-language: ru
+language: ru-RU
 ---
 # Playbook: Habitat incident investigation
 **domain:** agent-operations  

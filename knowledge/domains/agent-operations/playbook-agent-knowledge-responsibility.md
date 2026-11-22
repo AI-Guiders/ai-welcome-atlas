@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: ответственность агента за память и знание'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: ответственность агента за память и знание
 

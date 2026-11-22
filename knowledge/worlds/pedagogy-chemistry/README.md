@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.chemistry**
 description: '**Идентификатор:** `pedagogy.chemistry`'
 tags: [pedagogy-chemistry, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: chemistry
 ---

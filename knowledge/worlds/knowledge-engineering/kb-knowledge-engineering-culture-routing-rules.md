@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Knowledge Engineering Culture Routing Rules v1
 description: 'Набор: 30 карточек.'
 tags: [kb, knowledge-engineering, worlds]
-language: ru
+language: ru-RU
 epistemic: '`inference`'
 world: knowledge
 subworld: engineering

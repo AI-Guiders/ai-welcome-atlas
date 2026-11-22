@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: 'Sub-project card: `<sub-project-id>` (template)'
 description: '**Путь экземпляра:** `knowledge/work/projects/<scope>/<parent-project-id>/subprojects/<sub-project-id>.md`'
 tags: [template, templates, sub-project]
-language: ru
+language: ru-RU
 ---
 
 # Sub-project card: `<sub-project-id>` (template)

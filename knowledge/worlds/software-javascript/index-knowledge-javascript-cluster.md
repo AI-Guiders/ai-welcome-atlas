@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Кластер JavaScript (**world (KE):** `software.javascript`) — навигация v1
 description: '**Назначение:** точка входа с явным разложением **fundamentals → operational**. Контракт memory-architecture: **status → playbook → kb**; playbook — [`playbook-javascript-operational.md`](playbook-javascript-operational.md) (операционный слой и мост от теории к действиям).'
 tags: [software-javascript, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: javascript
 ---

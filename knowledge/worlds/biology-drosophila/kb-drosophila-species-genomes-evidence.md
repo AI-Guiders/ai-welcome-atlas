@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: Drosophila melanogaster — Филогенетика и геномы видов (evidence card v1)
 tags: [biology-drosophila, worlds, kb, evidence, genomes, simulans-complex, rearrangements, phylogenetics]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

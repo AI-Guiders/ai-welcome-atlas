@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Social studies pedagogy — fundamentals v1
 description: '**Мир:** `pedagogy.social-studies`'
 tags: [kb, pedagogy-social-studies, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: social-studies
 ---

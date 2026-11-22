@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Knowledge Layer
 description: This directory stores heavy reference material that should not bloat hot context.
 tags: [kb-root, readme]
-language: ru
+language: ru-RU
 ---
 # Knowledge Layer
 

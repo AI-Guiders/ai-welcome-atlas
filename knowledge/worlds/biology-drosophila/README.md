@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: biology.drosophila — мир «Drosophila melanogaster»
 description: '**world-id:** `biology.drosophila`'
 tags: [biology-drosophila, worlds, readme, biology, neuroscience, drosophila]
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

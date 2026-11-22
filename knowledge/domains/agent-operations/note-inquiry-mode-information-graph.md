@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: 'Note: Inquiry Mode — карта обсуждения на PFD/MFD/Forward (v0)'
 description: '**Domain:** agent-operations / cide-product-design'
 tags: [agent-operations, domains, note, research]
-language: ru
+language: ru-RU
 ---
 # Note: Inquiry Mode — карта обсуждения на PFD/MFD/Forward (v0)
 

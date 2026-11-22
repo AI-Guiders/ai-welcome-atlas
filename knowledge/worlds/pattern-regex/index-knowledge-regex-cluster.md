@@ -1,8 +1,8 @@
-﻿---
+---
 type: Index
 description: 'id: index-knowledge-regex-cluster-v1'
 tags: [pattern-regex, worlds]
-language: ru
+language: ru-RU
 world: pattern
 subworld: regex
 sections: [router-main]

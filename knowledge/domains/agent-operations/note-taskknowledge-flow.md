@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Note — TaskKnowledge Flow (agent work ontology)
 description: '**Status:** Proposed · capture (EnvInvariant draft; not freeze)'
 tags: [agent-operations, domains, note, research]
-language: ru
+language: ru-RU
 ---
 
 ﻿# Note — TaskKnowledge Flow (agent work ontology)
@@ -50,7 +50,7 @@ language: ru
 
 ## Dogfood
 
-`D:\Experiments\agent-notes\.task-knowledge\` — после remount MCP (del/add в `mcp.json`, см. `note-cursor-mcp-remount.md`): `ensure_store` / `route_next` на этом workspace.
+`D:\Experiments\agent-notes\.task-knowledge\` — после remount MCP (del/add в `mcp.json`, см. `work/troubleshooting/note-cursor-mcp-remount.md`): `ensure_store` / `route_next` на этом workspace.
 
 **Next work (после среды):** pilot CIDE ADR 0008 в cascade-ide `.task-knowledge/`.
 

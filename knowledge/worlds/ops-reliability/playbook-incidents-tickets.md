@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Инциденты и тикеты'
 description: '> **Scope:** общие практики реагирования на инциденты и работы с тикетами. Без привязки к конкретным системам учёта.'
 tags: [living, ops-reliability, playbook, worlds]
-language: ru
+language: ru-RU
 world: ops
 subworld: reliability
 ---

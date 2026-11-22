@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: PDE Fundamentals v1
 description: '**Purpose:** concise reference for basic partial differential equations (PDEs) relevant to simulation (heat/wave/Poisson) and well-posed initial/boundary value problems.'
 tags: [kb, math-numerics-pde, worlds]
-language: en
+language: en-US
 world: math
 subworld: numerics-pde
 ---

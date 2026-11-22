@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Second-native language pedagogy — fundamentals v1
 description: '**Мир:** `pedagogy.second-native-language`'
 tags: [kb, pedagogy-second-native-language, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: second-native-language
 ---

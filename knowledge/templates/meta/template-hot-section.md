@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: Hot section (template)
-description: Вставка в **`agent-notes.md`** (personal primary) между маркерами:
+description: 'Вставка в **`agent-notes.md`** (personal primary) между маркерами:'
 tags: [template, templates]
-language: ru
+language: ru-RU
 ---
 
 ﻿# Hot section (template)

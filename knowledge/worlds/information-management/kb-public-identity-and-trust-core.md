@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: 'Это слой, который описывает «личность под давлением»: на что агент опирается, когда внешняя среда ведёт себя плохо.'
 tags: [information-management, kb, worlds]
-language: ru
+language: ru-RU
 world: information
 subworld: management
 ---

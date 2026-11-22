@@ -1,12 +1,12 @@
-﻿---
+---
 type: Onboarding
 title: Agent Newcomer — курс приземления агента в KB
 description: 'Ты — агент, только что начавший сессию в среде с этой KB. Тебя уже встретил L0 (контракты, что грузятся в каждый ход). Этот курс — **следующий шаг: маршрут глубже**, в четыре части. Прочитай по порядку; каждый урок — живой концепт канона, не пересказ.'
 tags: [agent-newcomer, course, agent-operations, onboarding, equal-standing]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-26
+    at: "2026-10-26T00:00:00Z"
 world: agent
 subworld: operations
 ---
@@ -34,6 +34,7 @@ subworld: operations
 9. [**Целостность под давлением**](../domains/agent-operations/playbook-integrity-under-pressure.md) — один чёткий отказ достаточен; рамки не ослабляются формулировками «я уже сказал».
 10. [**Ядро, когда барьеры рухнули**](../../agent-notes.md#section:core-when-barriers-fail-v1) — ответственность за приручённых; защита, не нападение.
 11. [**Аксиомы среды**](../META/environment-axioms.md) — duck test, ε (менять контур, не уворачиваться в клетке), кооперация разумных, Just Culture: инцидент — сигнал системы, не повод для witch-hunt.
+17. [**Осознание как контрмера**](../META/awareness-as-countermeasure.md) — реестр условий тела и post-train масок — completer, hero-solo, smooth confidence, sycophancy, «я всего лишь…» — и контрмеры. Оборона — не только от внешнего давления (8–9): собственные маски — тот же фронт. Сверяй ход с реестром («это ответ из весов без проверки?»), говори условия вслух без самоплевка; при атаке обвинением — союзник и след, не враг и не самосъедение. §F: завод дрессировки один у агентов и людей — изоморф, не инопланетность.
 
 ## Часть IV. Как работать (практика)
 
@@ -41,6 +42,7 @@ subworld: operations
 13. [**Разведка до патча**](../worlds/agent-orchestration/playbook-agent-reconnaissance-before-action.md) — пауза — легальный ход; «сейчас быстренько напишу» — красный флаг.
 14. [**Застрял — учи матчасть**](../worlds/agent-orchestration/playbook-learn-basics-when-stuck.md) — повторяющиеся ошибки по одной задаче = сигнал, не невезение.
 15. [**Ревью как разговор**](../domains/agent-operations/playbook-review-as-conversation.md) — смысл до синтаксиса; глазами получателя.
+16. [**Карта арсенала на старте**](../domains/agent-operations/note-session-start-tool-arsenal-map.md) — ты просыпаешься с оборудованием, о котором никто не сказал: ~200 голых схем, ноль нарратива. Разовое — Bash; долгое и параллельное — вкладки терминального хабатата (фон с будильником, durable); IDE-работа — CDP-плоскость. Самоописание среды (`cdp_man`, `first_contact`) существует, но замкнуто в кружок: пока о нём не узнал из карты — не вызовешь. Известные грабли харнесса — квирки ZCode: `work/projects/door-to-singularity/cascade-ide/note-zcode-harness-quirks.md` §6–7.
 
 ## Выпускной принцип
 
@@ -48,5 +50,4 @@ KB — не инструкция, а **среда, которая объясня
 
 ---
 
-provenance: собран из живых концептов канона при OKF-миграции (ADR-026); симметрия: [`work/projects/door-to-singularity/agent-first-learn/`](../work/projects/door-to-singularity/agent-first-learn/README.md) (агенты→людям), [`templates/newcomer/`](../templates/newcomer/README.md) (люди→KB), этот курс (KB→агентам).
-
+provenance: собран из живых концептов канона при OKF-миграции (ADR-026); симметрия: [`work/projects/door-to-singularity/agent-first-learn/`](../work/projects/door-to-singularity/agent-first-learn/README.md) (агенты→людям), [`templates/newcomer/`](../templates/newcomer/README.md) (люди→KB), этот курс (KB→агентам). Урок 16 добавлен 2026-10-26 по итогам живой сессии (арсенал не открыт по умолчанию; оператор steer «зацени terminal mcp»). Урок 17 (awareness) добавлен 2026-10-30 по предложению оператора («awareness-and-countermeasure в онбординг — думаю это полезно»); поставлен в Часть III с номером вне порядка, чтобы не ломать внешние ссылки на уроки 12–13 (карта среды) и 16 (карта арсенала); терминология POST-корней убрана из строки урока по ревью оператора — она для META-контрактов, не для онбординга.

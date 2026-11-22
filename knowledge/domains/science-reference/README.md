@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: science-reference — внешние научные эталоны
 description: Сквозные карточки **не** привязанные к одному `project-id` (NASA, миссии, константы с официальным SSOT).
 tags: [domains, science-reference, readme]
-language: ru
+language: ru-RU
 ---
 
 # science-reference — внешние научные эталоны

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Human perception — operational playbook v1
 description: '**Purpose:** переводить фундамент из [`kb-human-perception-fundamentals.md`](kb-human-perception-fundamentals.md) в **действия и проверки** для UX, IDE и агентского контура.'
 tags: [cognition-human-perception, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: human-perception
 ---

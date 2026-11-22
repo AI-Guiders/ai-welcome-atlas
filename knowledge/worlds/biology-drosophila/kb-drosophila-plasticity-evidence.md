@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Пластичность памяти: LTD-механизм, компартменты, консолидация (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, plasticity, ltm, memory-trace, compartment, consolidation, mb]
-language: ru
+language: ru-RU
 epistemic: fact (из полных текстов)
 world: biology
 subworld: drosophila

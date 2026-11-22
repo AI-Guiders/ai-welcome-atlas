@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: пауза и разведка перед действием (anti-hurry)'
 description: '**Мир:** agent-orchestration'
 tags: [agent-orchestration, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: agent
 subworld: orchestration
 ---

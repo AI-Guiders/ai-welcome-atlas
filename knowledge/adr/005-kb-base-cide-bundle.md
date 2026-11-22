@@ -1,5 +1,11 @@
-﻿# ADR 005: KB-Base Bundle for CIDE
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 005: KB-Base Bundle for CIDE'
+status: draft
+tags: [adr]
+language: ru-RU
+---
+# ADR 005: KB-Base Bundle for CIDE
 
 
 **Статус:** Proposed  
@@ -41,4 +47,5 @@
 ## Примечание об эволюции
 
 Этот ADR связывает предыдущие решения: baseline-контракт, модульный роутер и мультипроектную организацию KB в практическую поставку для CIDE.
+
 

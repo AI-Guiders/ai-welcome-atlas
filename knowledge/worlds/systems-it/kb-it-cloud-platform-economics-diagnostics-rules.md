@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: IT Knowledge Set v1 (Cloud, Platform, Economics, Diagnostics Rules)
 description: 'Set: 24 cards.'
 tags: [kb, systems-it, worlds]
-language: en
+language: en-US
 epistemic: '`fact`'
 world: systems
 subworld: it

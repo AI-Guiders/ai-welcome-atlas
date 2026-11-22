@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Сон: состояния, гомеостаз, схемы (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, sleep, sleep-states, homeostasis, dfb]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

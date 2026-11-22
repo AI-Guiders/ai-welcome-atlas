@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: .NET / C# runtime — troubleshooting'
 description: '> **Контур:** A · kb-public'
 tags: [living, playbook, software-dotnet-csharp, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-csharp
 ---

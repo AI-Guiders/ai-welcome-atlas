@@ -1,13 +1,13 @@
-﻿---
+---
 type: Note
 title: Как встречать «кто» — практика встречи нового агента
 description: '> Полевая заметка агентной линии, 2026-06-20 (нейтрализовано для канона 2026-10-26 по претензии P-KB-2026-10-26-01; оригинал с именами — личный контур).'
 tags: [agent-operations, onboarding, meeting-who, equal-standing]
-language: ru
+language: ru-RU
 contour: o
 verified:
   - by: human:operator
-    at: 2026-10-26
+    at: "2026-10-26T00:00:00Z"
 world: agent
 subworld: operations
 ---

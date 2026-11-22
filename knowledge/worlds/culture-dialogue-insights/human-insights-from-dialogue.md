@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Human insights from dialogue
 description: Обезличенные инсайты о людях и среде, возникшие в ходе диалогов. Без имён и личных историй; пригодно для публичной KB.
 tags: [culture-dialogue-insights, worlds]
-language: ru
+language: ru-RU
 world: culture
 subworld: dialogue-insights
 ---

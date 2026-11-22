@@ -1,9 +1,9 @@
-﻿---
+---
 type: Meta Contract
 title: Provenance Contract v1
 description: Происхождение знания (кто/когда/откуда) — часть базы знаний. Источники устаревают; знание с явной привязкой к источнику остаётся проверяемым и обновляемым.
 tags: [meta]
-language: ru
+language: ru-RU
 ---
 # Provenance Contract v1
 

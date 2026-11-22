@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Troubleshooting — ops.reliability
 description: 'Операционные playbooks: `../playbook-backup-db.md`, `../playbook-incidents-tickets.md`.'
 tags: [ops-reliability, readme, worlds]
-language: ru
+language: ru-RU
 world: ops
 subworld: reliability
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Transfer Matrix
 title: Transfer matrix — math development (elementary) v1
 description: '**Мир:** `cognition.math-development`'
 tags: [cognition-math-development, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: math-development
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Fundamentals — philosophy.dao-chan (принципы из первоисточников)
 description: Принципы выведены из прочитанных первоисточников (см. evidence-карточки мира). Каждый имеет опору в оригинале — не из памяти.
 tags: [fundamentals, philosophy-dao-chan, l0, dao, chan]
-language: zh
+language: zh-Hans
 world: philosophy
 subworld: dao-chan
 ---

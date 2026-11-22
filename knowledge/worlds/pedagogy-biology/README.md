@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.biology**
 description: '**Идентификатор:** `pedagogy.biology`'
 tags: [pedagogy-biology, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: biology
 ---

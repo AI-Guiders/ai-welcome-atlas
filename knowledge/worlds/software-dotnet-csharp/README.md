@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: '`software.authoring.dotnet.csharp` — язык и платформа .NET'
 description: '**World tag:** `software.authoring.dotnet.csharp`'
 tags: [readme, software-dotnet-csharp, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-csharp
 ---
@@ -21,6 +21,8 @@ subworld: dotnet-csharp
 | [`kb-dotnet-fundamentals.md`](kb-dotnet-fundamentals.md) | TFM, runtime, модели приложений |
 | [`kb-dotnet-playbooks.md`](kb-dotnet-playbooks.md) | DOTNET-01..03: TFM, миграция, диагностика |
 | [`frontend-dotnet-playbook.md`](frontend-dotnet-playbook.md) | Blazor / Avalonia / XAML — обзор frontend на .NET |
+| [`kb-blazor-radzen-fundamentals.md`](kb-blazor-radzen-fundamentals.md) | Radzen Blazor — канон по всему стеку: архитектура, все семейства, паттерны данных, ловушки |
+| [`kb-blazor-radzen-datagrid-fundamentals.md`](kb-blazor-radzen-datagrid-fundamentals.md) | Radzen DataGrid — глубокий проход: View-пайплайн, expression-слой, FilterMode, Groups, ловушки |
 | [`../software-authoring/code-writing-principles.md`](../software-authoring/code-writing-principles.md) | Стиль C# |
 
 Иерархия миров: [`../software-authoring/kb-software-authoring-language-worlds.md`](../software-authoring/kb-software-authoring-language-worlds.md).

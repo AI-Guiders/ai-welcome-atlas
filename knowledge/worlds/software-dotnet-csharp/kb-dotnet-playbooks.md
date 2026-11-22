@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: '**Назначение:** набор компактных сценариев‑playbook’ов для практических шагов вокруг .NET: выбор целевой версии, миграция с .NET Framework, базовая диагностика.'
 tags: [kb, software-dotnet-csharp, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-csharp
 ---

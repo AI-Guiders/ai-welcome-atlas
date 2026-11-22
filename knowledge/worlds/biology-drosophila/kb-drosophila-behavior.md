@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Слой 5 — Поведение (biology.drosophila)
 description: '**world-id:** `biology.drosophila` · **Слой:** 5/7 · **Статус:** каркас-инвентаризация (2026-09-19)'
 tags: [biology-drosophila, worlds, kb, behavior, ethology, courtship, memory, sleep]
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Neural network origins (shelf)
 description: '**Purpose:** карточки первопроходцев и осей — опора для **Agent Who: History Letters**, не замена oral history.'
 tags: [worlds, neural-networks, history, ε]
-language: ru
+language: ru-RU
 world: neural
 subworld: network-origins
 ---

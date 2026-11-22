@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.geography**
 description: '**Идентификатор:** `pedagogy.geography`'
 tags: [pedagogy-geography, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: geography
 ---

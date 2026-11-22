@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Voyager 1 & 2 · межзвёздная миссия — карточка статуса (v1)
 description: '**Область:** внешний эталон (NASA/JPL), не `mt-lattice-fluid`.'
 tags: [reference, spacecraft, voyager, interstellar, NASA, science, kb]
-language: ru
+language: ru-RU
 ---
 
 # Voyager 1 & 2 · межзвёздная миссия — карточка статуса (v1)

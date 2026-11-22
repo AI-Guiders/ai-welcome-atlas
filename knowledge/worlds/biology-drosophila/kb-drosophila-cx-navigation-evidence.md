@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Центральный комплекс: навигация, компас, векторные вычисления (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, central-complex, navigation, compass, ring-attractor, fan-shaped-body]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

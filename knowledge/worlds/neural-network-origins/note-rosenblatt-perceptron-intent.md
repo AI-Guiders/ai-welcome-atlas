@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Rosenblatt · Perceptron intent
 description: '**Date:** 2026-08-03'
 tags: [neural-networks, origins, perceptron]
-language: ru
+language: ru-RU
 world: neural
 subworld: network-origins
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Physics pedagogy — fundamentals v1
 description: '**Мир:** `pedagogy.physics`'
 tags: [kb, pedagogy-physics, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: physics
 ---

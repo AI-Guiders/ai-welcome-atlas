@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Hypothesis space H
 description: Множество ещё живых объяснений / гипотез на сцене (shared claims + цель).
 tags: [llm-native-card, definition, epistemic-scene, agent-operations]
-language: ru
+language: ru-RU
 world: epistemic
 subworld: scene
 ---

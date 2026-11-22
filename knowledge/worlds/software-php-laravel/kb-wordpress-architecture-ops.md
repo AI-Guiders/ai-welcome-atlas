@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: WordPress — архитектура и операции (ядро, темы, плагины)
 description: '**Назначение:** опорная карта **WordPress как CMS/платформы** для агентов и разработчиков: жизненный цикл запроса, расширяемость, данные, обновления и базовая безопасность. Мир `software.wordpress`. Не руководство по дизайну тем.'
 tags: [kb, software-php-laravel, worlds]
-language: ru
+language: ru-RU
 epistemic: fact + inference
 world: software
 subworld: php-laravel

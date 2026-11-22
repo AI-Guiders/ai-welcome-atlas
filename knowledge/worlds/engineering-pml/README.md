@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **engineering.pml** (AVEVA PML)
 description: '**Идентификатор мира:** `engineering.pml`'
 tags: [engineering-pml, readme, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: pml
 ---

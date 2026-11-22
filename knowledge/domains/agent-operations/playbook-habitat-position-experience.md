@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Habitat position · lived experience'
 description: '**domain:** agent-operations'
 tags: [habitat, experience, position, junior-architect, equal-standing]
-language: ru
+language: ru-RU
 ---
 # Playbook: Habitat position · lived experience
 **domain:** agent-operations  

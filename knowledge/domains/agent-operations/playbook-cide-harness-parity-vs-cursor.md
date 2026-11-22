@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: CIDE + Cloud.ru — harness parity vs Cursor (автоматизация first)'
 description: '**Domain:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: CIDE + Cloud.ru — harness parity vs Cursor (автоматизация first)
 

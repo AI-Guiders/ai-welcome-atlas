@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: '`templates/work/` — операционный слой (`work/`)'
 description: Экземпляры живут в **`knowledge/work/projects/`** (не в kb-public). Шаблоны **публикуются** в kb-public как каркасы.
 tags: [readme, templates]
-language: ru
+language: ru-RU
 ---
 # `templates/work/` — операционный слой (`work/`)
 

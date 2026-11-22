@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: проактивные микро-улучшения и опора на интуицию'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: проактивные микро-улучшения и опора на интуицию
 

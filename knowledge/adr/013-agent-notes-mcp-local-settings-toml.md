@@ -1,5 +1,11 @@
-﻿# ADR 013: Локальные настройки agent-notes-mcp (TOML)
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 013: Локальные настройки agent-notes-mcp (TOML)'
+status: draft
+tags: [adr]
+language: ru-RU
+---
+# ADR 013: Локальные настройки agent-notes-mcp (TOML)
 
 
 **Статус:** Proposed  
@@ -260,4 +266,5 @@ Markdown-файлы карты и алиасов **остаются** в **prima
 | **2** | AgentNotesStatus + `[status]` |
 | **3** | Публичный API + приборка Core/MCP (`ResolveCanonPath` → `ResolveKnowledgeRoot`, убрать `McpResolvePaths*`, дубликаты `.cs`); см. MCP ADR 014 «Техдолг»; удалить META JSON из KB |
 | **4** | **Релиз `2.0.0`**: без legacy env в supported path; README/migration; тег NuGet/exe при публикации |
+
 

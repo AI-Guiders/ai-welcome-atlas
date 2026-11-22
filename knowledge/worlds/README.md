@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: '`knowledge/worlds/` — крупные контексты («вселенные»)'
 description: Смысл корзины и правила размещения — только из **`../META/kb-taxonomy.md`**.
 tags: [readme, readme-md, worlds]
-language: ru
+language: ru-RU
 world: README.md
 sections: [catalog-engineering-cad-v1, catalog-engineering-pml-v1, catalog-pedagogy-school-subjects-v1, catalog-biology-drosophila-v1]
 ---
@@ -51,6 +51,7 @@ sections: [catalog-engineering-cad-v1, catalog-engineering-pml-v1, catalog-pedag
 **Уже есть:** `culture-dialogue-insights/` — **culture.dialogue-insights** (инсайты из диалога) — см. hub.  
 **Уже есть:** `rhetoric-pragmatics/` — **rhetoric.pragmatics** (речевые ситуации, жанры, register; evidence Bitzer/Bakhtin + fundamental pass) — см. hub.  
 **Уже есть:** `software-authoring/` — **software.authoring** (code principles, language index) — см. hub.
+**Уже есть:** `philosophy-argumentation/` — **philosophy.argumentation** (спор: диалектика vs эристика, аргументация от Аристотеля до pragma-dialectics; fundamental pass старт) — см. hub `index.md`.
 
 <!-- section:catalog-engineering-cad-v1 -->
 **Уже есть:** `engineering-cad/` — **engineering.cad** (Fundamentals → Playbook; hub `engineering-cad/README.md`). Только vendor-neutral предметка; пути clone/диск в kb не описываются.

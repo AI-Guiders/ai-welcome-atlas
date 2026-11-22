@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'ECMAScript: редакции, модули и граница совместимости'
 description: '**Назначение:** опорный слой **спецификации ECMA-262** и **системы модулей** в реальных проектах: годовые редакции, политика «что допустимо в исходниках без транспиляции», ESM vs CommonJS. Мир **`software.javascript`**.'
 tags: [kb, software-javascript, worlds]
-language: ru
+language: ru-RU
 epistemic: fact + inference
 world: software
 subworld: javascript

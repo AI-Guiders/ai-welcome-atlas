@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Anderson et al. (2021) — parental linguistic input meta-analysis'
 description: '**Thesis:** Meta-analysis — **input quality** (vocabulary diversity, syntactic complexity) predicts child language **more strongly** than raw quantity (tokens/utterances).'
 tags: [cognition-language-acquisition, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: language-acquisition
 ---

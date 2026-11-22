@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: NRC (2012) — A Framework for K-12 Science Education'
 description: '**Thesis:** K-12 science proficiency requires **three integrated dimensions** (Box S-1):'
 tags: [kb, pedagogy-biology, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: biology
 ---

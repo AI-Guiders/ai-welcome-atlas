@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'KB fundamentals: AVEVA PML (PML1 & PML2) v1'
 description: '**Назначение:** самодостаточный опорный слой — агент не обязан каждый раз открывать полный AVEVA Software Customization Reference.'
 tags: [engineering-pml, kb, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: pml
 ---

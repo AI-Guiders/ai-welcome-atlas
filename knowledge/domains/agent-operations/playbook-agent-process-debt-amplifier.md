@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: агент как усилитель процессного долга'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: агент как усилитель процессного долга
 

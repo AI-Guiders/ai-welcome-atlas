@@ -1,12 +1,12 @@
-﻿---
+---
 type: KB
 title: ПДД РФ — Допуск ТС к эксплуатации и перечень неисправностей (MEL-аналог, verified)
 description: 'Аналог авиационного **MEL (Minimum Equipment List)**: перечень неисправностей,'
 tags: [traffic-rules, pdd-rf, kb, worlds, verified, mel, selftest]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-13 (fetch-dopusk.py)
+    at: "2026-10-13T00:00:00Z" # fetch-dopusk.py
 epistemic: '`fact`'
 world: traffic
 subworld: rules

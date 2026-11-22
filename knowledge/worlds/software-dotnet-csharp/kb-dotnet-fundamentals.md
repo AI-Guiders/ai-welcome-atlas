@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: '**Назначение:** дать опорную картину того, что такое .NET Framework vs .NET (Core), какие есть рантаймы, TFMs и базовые модели приложений, чтобы дальше обсуждать практики и playbook’и на общей базе.'
 tags: [kb, software-dotnet-csharp, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-csharp
 ---

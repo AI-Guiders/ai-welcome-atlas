@@ -1,9 +1,9 @@
-﻿---
+---
 type: Map
 title: 'Карта чтения: engineering.cad (v1)'
 description: '**Цель:** Fundamentals → Playbook (без operational-путей).'
 tags: [engineering-cad, map, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: cad
 ---

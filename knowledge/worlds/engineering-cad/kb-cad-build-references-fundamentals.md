@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'Fundamentals: сборка, References и vendor API (v1)'
 description: '**Мир:** `engineering.cad`'
 tags: [engineering-cad, kb, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: cad
 ---

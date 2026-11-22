@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Social studies pedagogy — scientific evidence index v1
 description: '**Breakstone 2021** Civic Online Reasoning for digital civics; C3 2013 foundational framework.'
 tags: [kb, pedagogy-social-studies, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: social-studies
 ---

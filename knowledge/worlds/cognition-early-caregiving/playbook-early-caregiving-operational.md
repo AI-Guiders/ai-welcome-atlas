@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Early caregiving — operational playbook v1
 description: '**Purpose:** когда и как использовать мир `cognition.early-caregiving`.'
 tags: [cognition-early-caregiving, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: early-caregiving
 ---

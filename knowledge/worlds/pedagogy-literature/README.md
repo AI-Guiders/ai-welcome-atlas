@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.literature**
 description: '**Идентификатор:** `pedagogy.literature`'
 tags: [pedagogy-literature, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: literature
 ---

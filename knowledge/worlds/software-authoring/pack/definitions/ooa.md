@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: OOA — Object-Oriented Analysis
 description: 'Понять предметную область: понятия, правила, сценарии — ещё без привязки к файлам/C#.'
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

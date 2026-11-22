@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Избегание/эскап: GF-система, аверсивные цепи (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, escape, giant-fiber, avoidance, reflex]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста eNeuro 2025) + annotation
 world: biology
 subworld: drosophila

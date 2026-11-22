@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **workspace.context** (мультипроект и контекст)
 description: '**Назначение:** мультипроектный контекст, регидрация контекста, active scope, response finalizer.'
 tags: [readme, workspace-context, worlds]
-language: ru
+language: ru-RU
 world: workspace
 subworld: context
 ---

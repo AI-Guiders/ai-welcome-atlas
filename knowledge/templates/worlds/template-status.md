@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: 'Status: `<domain>` v1 (template)'
 description: '**Домен:** (одна строка)'
 tags: [template, templates]
-language: ru
+language: ru-RU
 world: template
 subworld: status.md
 sections: [optional-transfer-matrix]

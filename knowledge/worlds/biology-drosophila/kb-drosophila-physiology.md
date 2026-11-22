@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Слой 4 — Физиология и пластичность (biology.drosophila)
 description: '**world-id:** `biology.drosophila` · **Слой:** 4/7 · **Статус:** каркас-инвентаризация (2026-09-19)'
 tags: [biology-drosophila, worlds, kb, physiology, plasticity, neurotransmitters]
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

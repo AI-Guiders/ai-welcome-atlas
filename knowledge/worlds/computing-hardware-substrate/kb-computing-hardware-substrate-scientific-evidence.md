@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Computing hardware substrate — scientific evidence index v1
 description: '| Источник | DOI / URL | Evidence card | read_depth |'
 tags: [kb, computing-hardware-substrate, worlds]
-language: ru
+language: ru-RU
 world: computing
 subworld: hardware-substrate
 ---

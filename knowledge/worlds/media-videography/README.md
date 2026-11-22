@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **media.videography** (теория и операционный слой)
 description: '**Идентификаторы в документе:** общий видеографический/кинематографический контент; внутри KB явно тегируется **media.video-surveillance** (§13, R9–R12).'
 tags: [media-videography, readme, worlds]
-language: ru
+language: ru-RU
 world: media
 subworld: videography
 ---

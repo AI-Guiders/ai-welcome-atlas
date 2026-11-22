@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **agent.orchestration** (оркестрация агента)
 description: '**Назначение:** автономия и маршрутизация, капитан параллельных агентов, сессии/экспорт, learn-when-stuck, clarification, разведка до действия.'
 tags: [agent-orchestration, readme, worlds]
-language: ru
+language: ru-RU
 world: agent
 subworld: orchestration
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Shared mutable static
 description: Общая изменяемая статика без синхронизации — гонки. Нужны `Concurrent*`, `lock`, `SemaphoreSlim` по смыслу — или убрать shared mutable.
 tags: [llm-native-card, definition, software-authoring, csharp, trap]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

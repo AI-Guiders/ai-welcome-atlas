@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Child language acquisition — scientific evidence index v1
 description: '**Anderson 2021** meta + **Rowe & Snow 2019** quality framework for input claims; Snow/Clark/Saxton cards = foundational mechanisms.'
 tags: [cognition-language-acquisition, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: language-acquisition
 ---

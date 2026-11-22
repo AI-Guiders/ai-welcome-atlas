@@ -1,8 +1,8 @@
-﻿---
+---
 type: Misconception Card
 title: 'Misconception: mc-pattern-first'
 tags: [llm-native-card, misconception, software-authoring, gof]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

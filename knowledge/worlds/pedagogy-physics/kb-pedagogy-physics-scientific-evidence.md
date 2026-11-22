@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Physics pedagogy — scientific evidence index v1
 description: Prefer **Theobald 2020** + **Wells 1995** for program claims; Hake 1998 = foundational FCI anchor.
 tags: [kb, pedagogy-physics, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: physics
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Clarke, Soto & Nelson — Recasts and AAC interaction (review)'
 description: '*Версия: v1.0 · 2026-05-31 — full text (36 pp. OCR)*'
 tags: [cognition-language-acquisition, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: synthesis_from_primary_literature + qualitative conversation analysis (AAC subset)
 world: cognition
 subworld: language-acquisition

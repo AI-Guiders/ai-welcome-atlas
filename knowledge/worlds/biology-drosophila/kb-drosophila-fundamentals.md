@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 title: 'KB fundamentals: Drosophila melanogaster (biology.drosophila) v1'
 description: '**Назначение:** самодостаточный опорный слой определений (агент не обязан каждый раз открывать первоисточник).'
-language: ru
+language: ru-RU
 world: biology
 subworld: drosophila
 ---

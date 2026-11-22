@@ -1,14 +1,12 @@
-﻿---
+---
 type: KB
 title: 'KB: Situation Awareness Measurement in Dynamic Systems v1'
 description: 1) probes align with task-relevant SA requirements,
 tags: [evidence-humanities-shelf, kb, worlds]
-language: en
+language: en-US
 epistemic: fact + inference
 world: evidence
 subworld: humanities-shelf
-supersedes: [none]
-superseded_by: [none]
 ---
 # KB: Situation Awareness Measurement in Dynamic Systems v1
 

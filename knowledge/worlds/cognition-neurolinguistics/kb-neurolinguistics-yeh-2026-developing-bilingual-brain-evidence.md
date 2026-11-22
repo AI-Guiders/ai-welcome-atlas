@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Yeh et al. (2026) — developing bilingual brain (systematic review)'
 description: '**Thesis:** growing up bilingual reshapes **language networks + executive regions** from infancy; behavioral parity with monolinguals often hides **distinct neural recruitment**.'
 tags: [cognition-neurolinguistics, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

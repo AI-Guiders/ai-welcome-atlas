@@ -1,5 +1,11 @@
-﻿# ADR 004: Router Supplement Split and L1 Pool
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 004: Router Supplement Split and L1 Pool'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 004: Router Supplement Split and L1 Pool
 
 
 **Статус:** Accepted  
@@ -40,4 +46,5 @@
 ## Примечание об эволюции
 
 Этот split подготовил почву для модульной дистрибуции KB по слоям (base/extended).
+
 

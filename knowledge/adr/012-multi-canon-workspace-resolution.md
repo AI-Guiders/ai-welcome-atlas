@@ -1,5 +1,11 @@
-﻿# ADR 012: Multi-canon resolution (личный + org) и workspace-конфиг MCP
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 012: Multi-canon resolution (личный + org) и workspace-конфиг MCP'
+status: draft
+tags: [adr]
+language: ru-RU
+---
+# ADR 012: Multi-canon resolution (личный + org) и workspace-конфиг MCP
 
 
 **Статус:** Proposed  
@@ -170,4 +176,5 @@ workspace_path (Cursor)
 
 - Пример workspace-конфига: `knowledge/work/local/agent-notes.workspace.example.toml`
 - Runbook wiki / org: `knowledge/work/projects/door-to-singularity/ai-guiders/templates/runbook-gitlab-wiki-to-github-ai-guiders.md` (контуры kb-public / handbook)
+
 

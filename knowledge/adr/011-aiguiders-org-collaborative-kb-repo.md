@@ -1,5 +1,11 @@
-﻿# ADR 011: GitHub-организация AI-Guiders и репозиторий совместной KB (`AI-Guiders/kb`)
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 011: GitHub-организация AI-Guiders и репозиторий совместной KB (`AI-Guiders/kb`)'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 011: GitHub-организация AI-Guiders и репозиторий совместной KB (`AI-Guiders/kb`)
 
 
 > **Для любой другой org:** нормативный white-label onboarding — [`../domains/agent-operations/playbook-org-kb-white-label.md`](../domains/agent-operations/playbook-org-kb-white-label.md) (плейсхолдер `{ORG_SLUG}`). Этот ADR — **решение и история инстанса AI-Guiders**, не универсальная инструкция.
@@ -242,4 +248,5 @@ flowchart LR
 ## Статус принятия
 
 **Accepted** 2026-06-12. Federation runbook: [`runbook-org-kb-federation.md`](../work/projects/door-to-singularity/agent-notes-kb/templates/runbook-org-kb-federation.md).
+
 

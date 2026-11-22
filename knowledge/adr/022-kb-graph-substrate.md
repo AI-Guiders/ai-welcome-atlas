@@ -1,6 +1,12 @@
-﻿# ADR 022: KB Graph Substrate v2 — structure IR, slices, SAT
+---
+type: ADR
+title: 'ADR 022: KB Graph Substrate v2 — structure IR, slices, SAT'
+status: draft
+tags: [adr, kb, graph, fsharp, agentnotes, sat, just-culture]
+language: ru-RU
+---
+# ADR 022: KB Graph Substrate v2 — structure IR, slices, SAT
 
-**Tags:** #adr #kb #graph #fsharp #agentnotes #sat #just-culture
 
 **Статус:** Proposed  
 **Дата:** 2026-09-13  
@@ -393,4 +399,5 @@ KB v2 переносит тот же контракт на канон: **matrice
 ## Примечание для роутера
 
 При Accepted — одна строка в supplement: «KB graph substrate / kb-sat / slice» → этот ADR + `AgentNotes.Modeling.*` runbook (TBD P0).
+
 

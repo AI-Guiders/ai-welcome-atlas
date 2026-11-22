@@ -1,5 +1,11 @@
-﻿# ADR 019: Writing canon layers — mirror (normative: CDP-ADR-0207)
-**Tags:** #adr #cdp #mirror
+---
+type: ADR
+title: 'ADR 019: Writing canon layers — mirror (normative: CDP-ADR-0207)'
+status: stable
+tags: [adr, cdp, mirror]
+language: ru-RU
+---
+# ADR 019: Writing canon layers — mirror (normative: CDP-ADR-0207)
 
 
 **Статус:** Mirror — **normative SSOT в CDP**  
@@ -23,4 +29,5 @@
 Product ADR = decision log only.
 
 **Dogfood:** `agent-forge/.cdp/canon.md`, stub `AI-Guiders/guiders-style`, personal `knowledge/personal/operator-writing-prefs.md`.
+
 

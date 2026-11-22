@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Docker Playbook v1
 description: Dedicated playbook for containerized development, testing, and operational reproducibility.
 tags: [software-automation-scripting, worlds]
-language: en
+language: en-US
 world: software
 subworld: automation-scripting
 ---

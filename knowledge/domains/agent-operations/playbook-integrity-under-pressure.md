@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: Целостность под давлением (защита от оружия) v1'
 description: '**Связь:** [note-own-affect-after-hard-steer.md](note-own-affect-after-hard-steer.md) — hard steer ≠ запрет назвать свой аффект; чужой аффект не утверждать как факт.'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 speech_situation:
   audience: agent_internal
   goal: operational_protocol

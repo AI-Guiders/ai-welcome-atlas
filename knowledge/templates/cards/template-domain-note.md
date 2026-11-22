@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: <Title> — domain note (шаблон)
 description: '**domain-id:** `<slug>`'
 tags: [template, templates]
-language: ru
+language: ru-RU
 ---
 
 ﻿# <Title> — domain note (шаблон)

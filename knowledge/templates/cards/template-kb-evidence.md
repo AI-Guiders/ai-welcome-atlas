@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: KB evidence card template (kb-`<slug>`-evidence-v1)
 description: '**Имя файла:** `kb-<topic>-evidence.md` (в `knowledge/` или `worlds/<world>/`).'
 tags: [template, templates]
-language: ru
+language: ru-RU
 epistemic: (`fact` | `inference` | `hypothesis`)
 ---
 

@@ -1,12 +1,12 @@
-﻿---
+---
 type: Glossary
 title: Глоссарий операторских команд и терминов среды (seed v1)
 description: 'Оператор говорит образно и минимально; термины среды имеют точные значения, не выводимые из общих слов. Каждая запись: термин → точное значение → якорь-прецедент. Seed собран при OKF-миграции (ADR-026 M2); пополнять по касанию.'
 tags: [glossary, operator-commands, kb, agent-operations]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-24
+    at: "2026-10-24T00:00:00Z"
 world: agent
 subworld: operations
 ---

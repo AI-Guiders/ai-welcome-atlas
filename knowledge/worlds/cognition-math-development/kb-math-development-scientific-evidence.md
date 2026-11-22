@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: Scientific evidence — math development (elementary) v1
 description: '**Мир:** `cognition.math-development`'
 tags: [cognition-math-development, kb, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: math-development
 ---

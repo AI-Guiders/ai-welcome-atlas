@@ -1,9 +1,9 @@
-﻿---
+---
 type: Router
 title: Knowledge Router Index v1
 description: Single entrypoint for fast navigation across the knowledge base under tight context limits.
 tags: [kb-root]
-language: ru
+language: ru-RU
 sections: [domain-entry-map-table, engineering-cad-domain-entry-v1, engineering-pml-domain-entry-v1]
 ---
 

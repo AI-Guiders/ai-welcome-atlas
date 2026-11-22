@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Shanahan & Shanahan (2012) — disciplinary literacy'
 description: '**Thesis:** **Disciplinary literacy (DL)** ≠ generic «content area reading strategies» — each discipline has **specialized norms** for text, evidence, and production.'
 tags: [kb, pedagogy-literature, worlds]
-language: en
+language: en-US
 world: pedagogy
 subworld: literature
 ---

@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: 'Set: 16 rules.'
 tags: [collaboration-git-pr, kb, worlds]
-language: en
+language: en-US
 epistemic: '`fact`'
 world: collaboration
 subworld: git-pr

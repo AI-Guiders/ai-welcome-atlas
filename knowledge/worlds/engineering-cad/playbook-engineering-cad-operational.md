@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: engineering.cad — operational v1'
 description: 'Контракт **совместной работы** человека и агента по CAD: что грузить, чего не тащить в контекст, как стыковать с .NET и локальным mono-repo плагинов.'
 tags: [engineering-cad, living, playbook, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: cad
 ---

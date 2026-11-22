@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Response finalizer — развёрнуто
 description: '**Назначение:** детали финализации ответа и вычитки. L0: секция `response-finalizer-v1` в `agent-notes.md`.'
 tags: [workspace-context, worlds]
-language: ru
+language: ru-RU
 world: workspace
 subworld: context
 sections: [chat-plain-language-human-v1]

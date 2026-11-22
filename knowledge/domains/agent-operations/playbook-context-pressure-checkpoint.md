@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Context pressure: сигналы и agent-initiated checkpoint'
 description: '**Domain:** `agent-operations` (сквозной операционный контракт)'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Context pressure: сигналы и agent-initiated checkpoint
 

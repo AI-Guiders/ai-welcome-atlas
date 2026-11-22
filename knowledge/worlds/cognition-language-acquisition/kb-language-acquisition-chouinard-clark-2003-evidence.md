@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Chouinard & Clark (2003) — Adult reformulations as negative evidence'
 description: '*Версия: v1.0 · 2026-05-31 — full (56 pp. OCR, user clark-all.pdf)*'
 tags: [cognition-language-acquisition, kb, worlds]
-language: ru
+language: ru-RU
 epistemic: primary_peer_reviewed_article (full preprint ≈ published)
 world: cognition
 subworld: language-acquisition

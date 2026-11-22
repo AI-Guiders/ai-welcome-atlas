@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **engineering.cad** (САПР / CAD-плагины)
 description: '**World tag:** `engineering.cad`'
 tags: [engineering-cad, readme, worlds]
-language: ru
+language: ru-RU
 world: engineering
 subworld: cad
 ---

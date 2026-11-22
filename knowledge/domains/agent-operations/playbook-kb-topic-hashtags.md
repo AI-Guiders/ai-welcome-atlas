@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: KB / ADR topic hashtags v1'
 description: '**Domain:** agent-operations'
 tags: [kb-tags, agent-operations, ssot, playbook, domains, living]
-language: ru
+language: ru-RU
 ---
 # Playbook: KB / ADR topic hashtags v1
 

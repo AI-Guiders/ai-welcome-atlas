@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **culture.dialogue-insights** (инсайты из диалога)
 description: '**Назначение:** материалы по паттернам и инсайтам из человеко-агентного диалога.'
 tags: [culture-dialogue-insights, readme, worlds]
-language: ru
+language: ru-RU
 world: culture
 subworld: dialogue-insights
 ---

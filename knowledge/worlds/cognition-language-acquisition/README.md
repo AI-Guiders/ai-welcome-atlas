@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **cognition.language-acquisition** (детское усвоение языка L1)
 description: '**Идентификатор мира:** `cognition.language-acquisition`'
 tags: [cognition-language-acquisition, readme, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: language-acquisition
 ---

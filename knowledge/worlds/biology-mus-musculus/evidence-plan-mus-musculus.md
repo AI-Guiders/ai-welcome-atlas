@@ -1,8 +1,8 @@
-﻿---
+---
 type: Note
 title: 'Evidence план: Mus musculus (biology.mus-musculus)'
 description: '**Назначение:** карта тем и статус прохода (канон: полные тексты OA + карточки kb-<topic>-evidence.md с Layer contract).'
-language: ru
+language: ru-RU
 world: biology
 subworld: mus-musculus
 ---

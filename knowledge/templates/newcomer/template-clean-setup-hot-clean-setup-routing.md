@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: 'Hot section template: clean-setup-routing-v1'
 description: Copy the fenced block into personal `agent-notes.md` (below `<!-- public-cut -->` if used).
 tags: [template, templates]
-language: en
+language: en-US
 sections: [clean-setup-routing-v1]
 ---
 

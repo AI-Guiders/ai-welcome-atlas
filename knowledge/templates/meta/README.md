@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: '`templates/meta/` — ADR, карты, runbook, hot-секции'
 description: 'Эталон ADR (краткий): `knowledge/adr/README.md`.'
 tags: [readme, templates]
-language: ru
+language: ru-RU
 sections: [id]
 ---
 

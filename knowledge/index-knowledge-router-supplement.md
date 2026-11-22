@@ -1,10 +1,10 @@
-﻿---
+---
 type: Router
 title: Knowledge Router — Supplement (detailed domain routes) v1
 description: '**Роль:** триггеры «когда грузить какой playbook/kb» по темам — все секции `<!-- section:router-* -->` и `learn-basics-when-stuck-router`. Раньше жили в `index-knowledge-router.md` сразу после Context Budget.'
 tags: [kb-root]
-language: ru
-sections: [router-kb-structure-adr009, router-logic, router-value-utility, router-agent-memory-hub, router-proactive-micro-improvements, router-fuzzy-search-implicit-language, router-principled-clarity, router-strict-execution-analogy, router-reconnaissance-before-action, router-agent-kb-responsibility, router-bci-medicine, router-consciousness-autonomy, router-secret-mode, router-rhetoric-pragmatics, router-clarification, router-polyamory, router-therapy, router-uncanny-valley, router-human-perception, router-language-acquisition, router-early-caregiving, router-troubleshooting-index, router-videography, router-ml, router-dotnet, router-php-laravel, router-javascript, router-pml, router-avalonia-ui, router-equation-ca-cuda-validation, router-mt-lattice-fluid, router-voyager-science-reference, router-warehouse, router-music, router-regex, router-sysadmin-ops, learn-basics-when-stuck-router, router-agent-autonomy, router-multi-project-context, router-session-summary, router-kb-world-public-authoring, router-kb-mcp-access, router-cursor-mcp-remount, router-captain-parallel-agents, router-clean-setup, router-org-kb-white-label, router-pedagogy-school-subjects]
+language: ru-RU
+sections: [router-kb-structure-adr009, router-logic, router-value-utility, router-agent-memory-hub, router-proactive-micro-improvements, router-fuzzy-search-implicit-language, router-principled-clarity, router-strict-execution-analogy, router-reconnaissance-before-action, router-agent-kb-responsibility, router-bci-medicine, router-consciousness-autonomy, router-secret-mode, router-rhetoric-pragmatics, router-clarification, router-polyamory, router-therapy, router-uncanny-valley, router-human-perception, router-language-acquisition, router-early-caregiving, router-troubleshooting-index, router-videography, router-ml, router-de-dx, router-dotnet, router-php-laravel, router-javascript, router-pml, router-avalonia-ui, router-math-numerics, router-equation-ca-cuda-validation, router-mt-lattice-fluid, router-voyager-science-reference, router-warehouse, router-music, router-regex, router-sysadmin-ops, learn-basics-when-stuck-router, router-agent-autonomy, router-multi-project-context, router-session-summary, router-kb-world-public-authoring, router-kb-mcp-access, router-cursor-mcp-remount, router-captain-parallel-agents, router-clean-setup, router-org-kb-white-label, router-pedagogy-school-subjects]
 ---
 
 ﻿# Knowledge Router — Supplement (detailed domain routes) v1
@@ -222,7 +222,7 @@ sections: [router-kb-structure-adr009, router-logic, router-value-utility, route
 - **При запросах о машинном обучении (парадигмы, supervised/unsupervised, классификация, регрессия), OCR (распознавание текста, Tesseract, препроцессинг, облако vs on-device), распознавании штрихкодов и 2D-кодов (barcode, QR, Data Matrix, UPC, EAN, Code 128, требования к изображению, ML Kit, ZXing):** загружать `knowledge/worlds/software-ml-applied/kb-ml-applied-theory.md` — фундамент ML и прикладные задачи; OCR (пайплайн, препроцессинг, OEM/PSM); 1D/2D коды, типы и выбор решения; операционные правила R1–R7; мир **software.ml-applied**.
 <!-- /section:router-ml -->
 
-<!-- section:router-dotnet -->
+<!-- section:router-de-dx -->
 
 
 ## Developer Experience (DE/DX)
@@ -288,7 +288,27 @@ sections: [router-kb-structure-adr009, router-logic, router-value-utility, route
 - **Hub:** `knowledge/worlds/engineering-pml/README.md` · Domain Entry `engineering-pml-domain-entry-v1`.
 <!-- /section:router-pml -->
 
+<!-- section:router-dotnet -->
+
+## .NET / C# платформа
+
+- **Порядок загрузки:** `status -> playbook -> kb` (Domain Entry Map — домен **.NET / C#**).
+- **Фундамент:** `knowledge/worlds/software-dotnet-csharp/README.md` (индекс зоны) → `kb-dotnet-fundamentals.md` (TFM, runtime, модели приложений); консольный учебник — `kb-csharp-console-grade8.md`; DOTNET-плейбуки — `kb-dotnet-playbooks.md` (TFM/миграция/диагностика); frontend-обзор Blazor/Avalonia — `frontend-dotnet-playbook.md`.
+- **Roslyn** (компиляция кода, CSharpCompilation, ref-packs, Source Generators): мир `knowledge/worlds/software-dotnet-tooling-roslyn/` — не путать с базовой платформой.
+- **Avalonia** (desktop XAML): мир `knowledge/worlds/software-dotnet-avalonia/` + секция router-avalonia-ui ниже.
+- **Radzen Blazor** (UI-библиотека): `knowledge/worlds/software-dotnet-csharp/kb-blazor-radzen-fundamentals.md` (весь стек) + `kb-blazor-radzen-datagrid-fundamentals.md` (грид глубоко). Триггеры: DataGrid/Chart/Scheduler, фильтрация/группировка, FilterTemplate, LoadData, темы `--rz-*`.
+- **Код-стайл C#:** `knowledge/worlds/software-authoring/code-writing-principles.md`.
+<!-- /section:router-dotnet -->
+
 <!-- section:router-avalonia-ui -->
+
+## Avalonia (desktop XAML, .NET)
+
+- **При запросах по Avalonia** (XAML, MVVM, стили, контролы, привязки, desktop-приложения на .NET): мир `knowledge/worlds/software-dotnet-avalonia/` (README зоны — индекс).
+- Связь с платформой: секция router-dotnet выше (фундамент .NET/C#); Radzen Blazor — веб, не Avalonia (разные UI-стеки, не подменять).
+<!-- /section:router-avalonia-ui -->
+
+<!-- section:router-math-numerics -->
 
 
 ## Math / Numerics (PDE/ODE/IDE, schemes)
@@ -422,7 +442,7 @@ sections: [router-kb-structure-adr009, router-logic, router-value-utility, route
 
 ## Cursor: remount MCP (agent-operated)
 
-- **После deploy MCP, правки `config.toml` dbhub, stale tools, handoff «нужен reload», `Not connected` после KillRunning:** загружать `knowledge/domains/agent-operations/note-cursor-mcp-remount.md`. **Не** просить оператора Reload в Settings — del/add блока сервера в `~/.cursor/mcp.json` + smoke.
+- **После deploy MCP, правки `config.toml` dbhub, stale tools, handoff «нужен reload», `Not connected` после KillRunning:** загружать `knowledge/work/troubleshooting/note-cursor-mcp-remount.md`. **Не** просить оператора Reload в Settings — del/add блока сервера в `~/.cursor/mcp.json` + smoke.
 <!-- /section:router-cursor-mcp-remount -->
 
 <!-- section:router-captain-parallel-agents -->

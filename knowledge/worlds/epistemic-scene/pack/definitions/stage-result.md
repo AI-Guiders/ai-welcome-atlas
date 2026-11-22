@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: Stage result
 description: 'Понятный итог шага графа: closed / unknown / block + что изменилось в H.'
 tags: [llm-native-card, definition, epistemic-scene, agent-operations]
-language: ru
+language: ru-RU
 world: epistemic
 subworld: scene
 ---

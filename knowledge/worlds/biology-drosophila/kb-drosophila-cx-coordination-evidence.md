@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Центральный комплекс: координация мультимодальной навигации (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, central-complex, navigation, ring-attractor, copy-and-shift, integration]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста; вычислительная модель — гипотезы авторов, но на данных)
 world: biology
 subworld: drosophila

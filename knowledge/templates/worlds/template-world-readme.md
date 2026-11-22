@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: Мир **`<world.id>`** (template)
 description: '**Идентификатор мира:** `<world.id>` (напр. `arts.music`, `software.authoring`)'
 tags: [template, templates]
-language: ru
+language: ru-RU
 world: template
 subworld: world-readme.md
 ---

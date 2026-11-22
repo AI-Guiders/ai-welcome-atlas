@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: чистая установка стека знаний (ANM + kb-public → personal)'
 description: '**Статус:** active · v1.1 · 2026-05-19'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: чистая установка стека знаний (ANM + kb-public → personal)
 

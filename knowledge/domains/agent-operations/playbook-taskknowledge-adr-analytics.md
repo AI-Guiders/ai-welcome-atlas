@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook — TaskKnowledge: ADR → analytics → DAG → execute'
 description: '**Status:** draft · experimental'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 
 ﻿# Playbook — TaskKnowledge: ADR → analytics → DAG → execute

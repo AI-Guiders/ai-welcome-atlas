@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Caenorhabditis elegans — коннектом: стереотипность, асимметрия, симметрии (evidence card v1)'
 tags: [biology-caenorhabditis-elegans, worlds, kb, evidence, connectome, asymmetry, fibration, redundancy]
-language: ru
+language: ru-RU
 epistemic: fact (2 OA-анализа полных текстов; классика — вторично)
 world: biology
 subworld: caenorhabditis-elegans

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: 'Мир **systems.it** (IT: ядро и cloud/platform)'
 description: '**Назначение:** статус IT-домена, playbook ядра систем, cloud/platform economics и diagnostics, curated rules kb.'
 tags: [readme, systems-it, worlds]
-language: ru
+language: ru-RU
 world: systems
 subworld: it
 ---

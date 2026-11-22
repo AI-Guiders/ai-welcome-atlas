@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Pedagogy fundamentals v1
 description: '**Мир:** `pedagogy.general`'
 tags: [kb, pedagogy-general, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: general
 ---

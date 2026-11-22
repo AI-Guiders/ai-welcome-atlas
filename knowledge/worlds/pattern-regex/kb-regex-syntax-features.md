@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: 'id: kb-regex-syntax-features-v1'
 tags: [kb, pattern-regex, worlds]
-language: ru
+language: ru-RU
 world: pattern
 subworld: regex
 sections: [literals-escaping, character-classes, dot-and-modes, quantifiers, grouping, anchors-assertions, alternation]

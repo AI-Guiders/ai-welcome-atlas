@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'KB: объектно-ориентированный анализ и проектирование (OOA&D) v1'
 description: '**Назначение:** фундаментальный канон по **OOA&D** и смежным практикам — откуда берётся правило «существительные → сущности, глаголы → методы», как не сводить его к косметическому рефакторингу.'
 tags: [kb, software-authoring, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

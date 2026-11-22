@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Cursor: coordinator + local Task workers'
 description: '**Domain:** `agent-operations`'
 tags: [agent-operations, cursor, cdp, orchestration, subagent, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Cursor: coordinator + local Task workers
 
@@ -15,7 +15,7 @@ language: ru
 
 - threading / lanes — [`playbook-cursor-chat-threading.md`](playbook-cursor-chat-threading.md)
 - inbox / session-close — [`../../personal/operator-guides/playbook-cursor-chat-inbox.md`](../../personal/operator-guides/playbook-cursor-chat-inbox.md)
-- [`note-cdp-autoship-coordinator-bridge.md`](note-cdp-autoship-coordinator-bridge.md) — KB background ship (FileWatcher), not manual agent push
+- `note-cdp-autoship-coordinator-bridge.md` (work/projects/door-to-singularity/cdp-mcp/) — KB background ship (FileWatcher), not manual agent push
 - multi-agent writes — [`playbook-multi-agent-write.md`](playbook-multi-agent-write.md)
 - PF throughput — [`playbook-pf-body-not-biped.md`](playbook-pf-body-not-biped.md)
 

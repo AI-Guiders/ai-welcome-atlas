@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: systems.it — troubleshooting'
 description: '> **Контур:** A · kb-public'
 tags: [living, playbook, systems-it, worlds]
-language: ru
+language: ru-RU
 world: systems
 subworld: it
 ---

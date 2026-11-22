@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: No sync-over-async
 description: Не блокировать async через .Result/.Wait/GetResult без веской причины.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

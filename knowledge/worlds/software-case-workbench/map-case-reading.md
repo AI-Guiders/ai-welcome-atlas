@@ -1,9 +1,9 @@
-﻿---
+---
 type: Map
 title: CASE / software workbench — reading map v1
 description: '**Назначение:** маршрут чтения — фундамент CASE-волны, соседи (KBSA, IPSE), уроки провала, что читать перед продуктовыми решениями Guiders.'
 tags: [software-case-workbench, map, worlds, case, reading]
-language: ru
+language: ru-RU
 world: software
 subworld: case-workbench
 ---

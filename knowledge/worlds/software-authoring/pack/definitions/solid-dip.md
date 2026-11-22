@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: SOLID — Dependency Inversion
 description: Зависеть от абстракций; детали зависят от политики.
 tags: [llm-native-card, definition, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

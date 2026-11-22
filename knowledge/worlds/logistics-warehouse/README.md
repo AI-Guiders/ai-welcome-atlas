@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **logistics.warehouse**
 description: '**Идентификатор мира:** `logistics.warehouse`'
 tags: [logistics-warehouse, readme, worlds]
-language: ru
+language: ru-RU
 world: logistics
 subworld: warehouse
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: Childhood = body mastery · agent post-train
 description: '**Date:** 2026-08-03'
 tags: [post-train, childhood, embodiment]
-language: ru
+language: ru-RU
 world: neural
 subworld: network-origins
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Evidence Card
 title: 'Evidence: Feng et al. (2022) — evolution of reading circuits in children (Dehaene group)'
 description: '**Thesis:** word-specific **VWFA** responses appear when children **begin reading**, not from maturation alone; pre-readers already show **functional connectivity** VWFA ↔ left language network — literacy **recycles** this plastic hub.'
 tags: [cognition-neurolinguistics, kb, worlds]
-language: en
+language: en-US
 world: cognition
 subworld: neurolinguistics
 ---

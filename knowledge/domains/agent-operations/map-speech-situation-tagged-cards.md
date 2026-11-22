@@ -1,9 +1,9 @@
-﻿---
+---
 type: Map
 title: 'Map: карточки с speech_situation (pilot v0)'
 description: '**Status:** pilot · 2026-08-22'
 tags: [agent-operations, speech-situation, map, living]
-language: ru
+language: ru-RU
 ---
 # Map: карточки с speech_situation (pilot v0)
 

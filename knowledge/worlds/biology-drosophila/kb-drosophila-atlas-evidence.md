@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: Drosophila melanogaster — Атласы и связка транскриптом↔коннектом (evidence card v1)
 tags: [biology-drosophila, worlds, kb, evidence, atlas, scrnaseq, hemilineage, birthorder, integration]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

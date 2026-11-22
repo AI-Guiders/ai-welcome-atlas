@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: CASE workbench world — operational playbook v1
 description: '**Триггеры (запрос / задача):**'
 tags: [software-case-workbench, playbook, worlds]
-language: ru
+language: ru-RU
 world: software
 subworld: case-workbench
 ---

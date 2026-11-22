@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: PF body ≠ biped'
 description: '**Дата:** 2026-08-03'
 tags: [agent-operations, cdp, ε, continuity, cold-start]
-language: ru
+language: ru-RU
 ---
 # Playbook: PF body ≠ biped
 **Дата:** 2026-08-03  

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: World Modeling Playbook v1
 description: 'Meta-playbook for keeping knowledge structure faithful to reality: intuition first, formalization second.'
 tags: [knowledge-engineering, worlds]
-language: en
+language: en-US
 world: knowledge
 subworld: engineering
 ---

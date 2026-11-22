@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **medicine.evidence** (доказательная медицина и границы поддержки)
 description: '**Назначение:** evidence-based слой для BCI/нейрореабилитации и смежных направлений (навигация по уровням доказательности, не клинические решения); playbook медицинского контура; отдельный kb о **границах терапии vs поддержки агента** и кризисных ориентирах.'
 tags: [medicine-evidence, readme, worlds]
-language: ru
+language: ru-RU
 world: medicine
 subworld: evidence
 ---

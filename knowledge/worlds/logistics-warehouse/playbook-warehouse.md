@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: Warehouse Playbook v1
 description: 'Операционный контракт для домена «склад: видеозахват штрихкодов/QR и требования маркетплейсов к этикеткам». Порядок загрузки: status → playbook → kb (никогда не стартовать с kb без явного запроса).'
 tags: [living, logistics-warehouse, playbook, worlds]
-language: ru
+language: ru-RU
 world: logistics
 subworld: warehouse
 ---

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Note
 title: 'Эпистемический принцип: недоверие по умолчанию (развёрнуто, v1)'
 description: '**Назначение:** полный текст, ранее в секции `epistemic-default-distrust-v1` в `agent-notes.md`. В hot — контракт L0 со ссылкой сюда.'
 tags: [kb-root]
-language: ru
+language: ru-RU
 ---
 # Эпистемический принцип: недоверие по умолчанию (развёрнуто, v1)
 

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **cognition.language-development** — DEPRECATED
 description: '**Статус:** deprecated · superseded by [`../cognition-language-acquisition/`](../cognition-language-acquisition/README.md)'
 tags: [cognition-language-development, readme, worlds]
-language: ru
+language: ru-RU
 world: cognition
 subworld: language-development
 ---

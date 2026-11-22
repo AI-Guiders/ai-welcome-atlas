@@ -1,5 +1,11 @@
-﻿# ADR 017: Knowledge-roots registry — префиксы (не каталог всех файлов group)
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 017: Knowledge-roots registry — префиксы (не каталог всех файлов group)'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 017: Knowledge-roots registry — префиксы (не каталог всех файлов group)
 
 
 **Статус:** Accepted · **2026-05-19** · Core **2.1.2**  
@@ -61,4 +67,5 @@ work/projects/aiguiders-open/ => group
 
 - Авто-подстановка `knowledge_root_id` в тулах без явного параметра.
 - Замена scope-contour-map префиксами в roots-index.
+
 

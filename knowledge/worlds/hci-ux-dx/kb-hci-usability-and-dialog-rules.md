@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: 'Set: 16 rules.'
 tags: [hci-ux-dx, kb, worlds]
-language: en
+language: en-US
 epistemic: '`inference`'
 world: hci
 subworld: ux-dx

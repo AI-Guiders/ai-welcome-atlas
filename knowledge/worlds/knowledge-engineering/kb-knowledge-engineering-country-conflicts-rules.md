@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: Knowledge Engineering Country Conflicts Rules v1
 description: 'Набор: 32 карточки.'
 tags: [kb, knowledge-engineering, worlds]
-language: ru
+language: ru-RU
 epistemic: '`inference`'
 world: knowledge
 subworld: engineering

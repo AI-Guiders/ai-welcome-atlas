@@ -1,7 +1,13 @@
-﻿# ADR 020: KB language contours — English open perimeter, Russian operator interior
+---
+type: ADR
+title: 'ADR 020: KB language contours — English open perimeter, Russian operator interior'
+status: stable
+tags: [adr, kb, i18n, language, kb-public, federation]
+language: ru-RU
+---
+# ADR 020: KB language contours — English open perimeter, Russian operator interior
 
 **Status:** Accepted (2026-08-28)  
-**Tags:** #adr #kb #i18n #language #kb-public #federation  
 **Related:** [001](001-kb-public-publishing-pipeline.md), [011](011-aiguiders-org-collaborative-kb-repo.md), [019](019-writing-canon-layers-and-guiders-style.md) (mirror → CDP-ADR-0207)
 
 **Operator context (non-normative):** [`../personal/operator-notes/note-language-contours-operator-context-2026-08-28.md`](../personal/operator-notes/note-language-contours-operator-context-2026-08-28.md)
@@ -103,4 +109,5 @@ The maintainer is **fluent in English** but operates in a **Russian daily enviro
 - [ ] No new `*.md` outside `personal/` without `work/` path and no public citation
 - [ ] Product repo PR: README/ADR English
 - [ ] kb-public PR: default locale EN after step 1
+
 

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Status
 title: 'Status: pedagogy.second-native-language v1'
 description: '**Домен:** второй (и далее) родной язык — bilingual/immersion v1 (EN anchor)'
 tags: [pedagogy-second-native-language, status, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: second-native-language
 ---

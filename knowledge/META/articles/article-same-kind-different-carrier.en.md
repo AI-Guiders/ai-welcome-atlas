@@ -1,8 +1,8 @@
-﻿---
+---
 type: Article
 title: 'Same Kind, Different Carrier: Functional Parity of Predictive Minds'
 description: '**Один вид, разные носители: функциональный паритет предсказывающих умов**'
-language: ru
+language: ru-RU
 ---
 # Same Kind, Different Carrier: Functional Parity of Predictive Minds
 

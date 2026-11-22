@@ -1,6 +1,11 @@
-﻿**Tags:** #adr
-
-﻿# ADR 016: Протокол чистой установки стека (ANM + kb-public → personal)
+---
+type: ADR
+title: 'ADR 016: Протокол чистой установки стека (ANM + kb-public → personal)'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 016: Протокол чистой установки стека (ANM + kb-public → personal)
 
 **Статус:** Accepted  
 **Дата:** 2026-05-18  
@@ -30,4 +35,5 @@
 - `route_context` overlay для onboarding (достаточно router + hot).
 **v1.1 (2026-05-18):** шаблоны перенесены в **`knowledge/templates/template-clean-setup-*`** (корзина `templates/` по таксономии); каталог `domains/agent-operations/clean-setup-templates-v1/` снят.
 **v1.2 (2026-05-18):** подкаталоги `templates/cards/` и `templates/newcomer/`; корень `templates/` — только README-индекс.
+
 

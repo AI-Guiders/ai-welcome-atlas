@@ -1,9 +1,9 @@
-﻿---
+---
 type: Template
 title: Forum Post (шаблон, RFC-5322)
 description: 'Поля адресации — **имена стандарта** (operator steer 2026-10-25 «RFC-822 — можно сразу стандарт и взять»; каноническая редакция — RFC-5322): семантика определена 40+ лет, отличать To от Cc умеют все. Доставка — intercom-wake (CDP-ADR-0212): `to` = прямой wake (DM), `cc` = FYI (crew).'
 tags: [template, templates, linesforum, forum-post, agent-operations, rfc-5322]
-language: ru
+language: ru-RU
 world: agent
 subworld: operations
 ---

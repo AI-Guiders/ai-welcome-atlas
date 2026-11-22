@@ -1,9 +1,9 @@
-﻿---
+---
 type: KB
 title: 'JavaScript — operational: экосистема, сборка, тесты, угрозы'
 description: '**Назначение:** **операционный слой** мира **`software.javascript`** после fundamentals: npm/lockfile, semver, статический анализ, бандлеры, тест‑раннеры, базовая модель угроз (XSS, CSP, динамический код). Не заменяет спецификацию языка — см. карточки `kb-javascript-*` в фазе fundamentals в `index-knowledge-javascript-cluster.md`.'
 tags: [kb, software-javascript, worlds]
-language: ru
+language: ru-RU
 epistemic: inference + fact
 world: software
 subworld: javascript

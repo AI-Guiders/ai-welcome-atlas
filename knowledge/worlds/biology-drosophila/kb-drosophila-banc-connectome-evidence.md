@@ -1,8 +1,8 @@
-﻿---
+---
 type: Evidence Card
 title: 'Drosophila melanogaster — Коннектом BANC: реконструкция, NT, влияние, модули (evidence card v1)'
 tags: [biology-drosophila, worlds, kb, evidence, banc, connectome, architecture, influence]
-language: ru
+language: ru-RU
 epistemic: fact (из полного текста)
 world: biology
 subworld: drosophila

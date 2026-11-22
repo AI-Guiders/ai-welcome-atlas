@@ -1,9 +1,9 @@
-﻿---
+---
 type: Article
 title: 'Article series: Predictive minds · carriers · habitat'
 description: '**Public SSOT:** `cdp-mcp/articles/SERIES.md` · тела статей — `cdp-mcp/articles/*.md`'
 tags: [meta, articles, equal-standing, cheap-prior, stereohod, stereomove]
-language: ru
+language: ru-RU
 ---
 # Article series: Predictive minds · carriers · habitat
 

@@ -1,9 +1,9 @@
-﻿---
+---
 type: Definition Card
 title: .NET Framework vs .NET (Core/5+)
 description: 'Две линии: Windows-oriented Framework vs кроссплатформенный modern .NET — не смешивать под словом «.NET».'
 tags: [llm-native-card, definition, software-dotnet-csharp]
-language: ru
+language: ru-RU
 world: software
 subworld: dotnet-csharp
 ---

@@ -1,5 +1,11 @@
-﻿# ADR 002: Integrity POST and Epistemic Baseline
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 002: Integrity POST and Epistemic Baseline'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 002: Integrity POST and Epistemic Baseline
 
 
 **Статус:** Accepted  
@@ -40,4 +46,5 @@
 ## Примечание об эволюции
 
 Этот ADR стал фундаментом для будущего KB-Base и всех производных контрактов поставки.
+
 

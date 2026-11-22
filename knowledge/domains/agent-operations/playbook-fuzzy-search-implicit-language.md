@@ -1,9 +1,9 @@
-﻿---
+---
 type: Playbook
 title: 'Playbook: нечёткий поиск и неявный язык'
 description: '**Домен:** agent-operations'
 tags: [agent-operations, domains, living, playbook]
-language: ru
+language: ru-RU
 ---
 # Playbook: нечёткий поиск и неявный язык
 

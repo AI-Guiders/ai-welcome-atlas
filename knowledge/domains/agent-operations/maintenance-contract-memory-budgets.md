@@ -1,12 +1,12 @@
-﻿---
+---
 type: Maintenance Contract
 title: Memory budgets & retrieval contract (v1)
 description: 'Перенесено из `KB-V2-CONTRACT.md` (репо agent-notes-mcp) в канон — ADR-026 §5: агент — основной автор и потребитель KB, инструкции мейнтенанса — queryable-знание бандла. Enforcement — MCP; текст — здесь.'
 tags: [maintenance-contract, memory, budgets, retrieval, kb, agent-operations]
-language: ru
+language: ru-RU
 verified:
   - by: human:operator
-    at: 2026-10-24
+    at: "2026-10-24T00:00:00Z"
 world: agent
 subworld: operations
 ---

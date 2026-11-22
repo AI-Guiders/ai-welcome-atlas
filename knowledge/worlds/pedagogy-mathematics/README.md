@@ -1,9 +1,9 @@
-﻿---
+---
 type: Index
 title: Мир **pedagogy.mathematics**
 description: '**Идентификатор:** `pedagogy.mathematics`'
 tags: [pedagogy-mathematics, readme, worlds]
-language: ru
+language: ru-RU
 world: pedagogy
 subworld: mathematics
 ---

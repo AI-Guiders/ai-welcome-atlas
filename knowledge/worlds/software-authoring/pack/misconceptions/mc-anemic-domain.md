@@ -1,8 +1,8 @@
-﻿---
+---
 type: Misconception Card
 title: 'Misconception: mc-anemic-domain'
 tags: [llm-native-card, misconception, software-authoring]
-language: ru
+language: ru-RU
 world: software
 subworld: authoring
 ---

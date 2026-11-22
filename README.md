@@ -72,3 +72,5 @@ Whenever you and your agent do a deep dive into a library, protocol, compiler, o
 
 - **Atlas Knowledge Content (`knowledge/`, `agent-notes.md`, `llms.txt`):** [**CC BY-SA 4.0**](./LICENSE) (see [`knowledge/README.md`](./knowledge/README.md) for attribution and commercial terms).
 - **MCP Server (`agent-notes-mcp`):** Open source in a separate repository ([`AI-Guiders/agent-notes-mcp`](https://github.com/AI-Guiders/agent-notes-mcp)).
+
+

@@ -1,5 +1,11 @@
-﻿# ADR 008: Карта workspace → scope (hot), публичная сборка и резолв в agent-notes-mcp
-**Tags:** #adr
+---
+type: ADR
+title: 'ADR 008: Карта workspace → scope (hot), публичная сборка и резолв в agent-notes-mcp'
+status: stable
+tags: [adr]
+language: ru-RU
+---
+# ADR 008: Карта workspace → scope (hot), публичная сборка и резолв в agent-notes-mcp
 
 
 **Статус:** Accepted (части A и B)  
@@ -103,4 +109,5 @@
 Часть A закрывает утечку путей в kb-public без смены контракта MCP. Часть B — файл карты workspace с приоритетом в MCP; при его отсутствии по-прежнему используются секции **`workspace-scope-map-v1`** / **`scope-map-v1`** в полном `agent-notes.md` ниже `public-cut`. Часть C — опциональный **`knowledge/META/mcp-resolve-paths.json`**: переопределение относительных путей к файлам карты и алиасов без смены кода MCP.
 
 **Аддендум 2026-10-17.** Секция `active-scope` **убрана из L0** и из `agent-notes.md`: состояние «что в фокусе» (primary, открытый workspace, пауза) перенесено в машинный слой — `knowledge/work/local/active-scope.md` (в kb-public и org-KB не входит). Причина: секция была в манифесте `l0`, то есть публиковалась, и увозила в kb-public машинные пути. Шаг цепочки «опционально поле `current:` в секции `active-scope` (легаси)» стал неактуален; резолв опирается на `work/local/workspace-scope-map.md` (SSOT) и явные маркеры `[PRIMARY:…]` / `[SCOPE:…]`. Разбор: `work/projects/door-to-singularity/agent-notes-kb/note-public-cut-drift-2026-09-26.md`.
+
 

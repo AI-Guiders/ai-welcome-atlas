@@ -1,8 +1,8 @@
-﻿---
+---
 type: KB
 description: 'id: kb-regex-flavors-practice-v1'
 tags: [kb, pattern-regex, worlds]
-language: ru
+language: ru-RU
 world: pattern
 subworld: regex
 sections: [dotnet, javascript, pcre-perl-style, java, workflow]
