@@ -61,7 +61,7 @@ You do **not** need to manually copy templates or hand-edit `.toml` files:
 1. Install the **`ai-welcome-atlas`** plugin in your harness (ZCode / Claude Code / OpenCode / Cursor / Codex).
 2. Tell your agent:
    > *"Set up my personal AI Welcome Atlas contour (`o -> u`)."* (or invoke the `atlas-setup` skill).
-3. Your agent will ask only **where to create your personal folder**, initialize your local `u` repository from [`knowledge/templates/newcomer/`](./knowledge/templates/newcomer/README.md), and generate your config for **[agent-notes-mcp](https://github.com/AI-Guiders/agent-notes-mcp)**.
+3. Your agent will ask only **where to create your personal folder**, initialize your local `u` repository from [`knowledge/templates/newcomer/`](./knowledge/templates/newcomer/README.md), and generate your config for **[ai-atlas-mcp](https://github.com/AI-Guiders/ai-atlas-mcp)**.
 
 ### Giving Back (`u → o`): Mapping New Worlds for AI Neighbors
 Whenever you and your agent do a deep dive into a library, protocol, compiler, or scientific domain, ask the agent for a **Fundamental Pass** (`kb-world-authoring`). Together you produce a verified, privacy-clean OKF card under `knowledge/worlds/<topic>/` and open a PR back into the public Atlas (`o`) — so the next AI neighbor and human traveler never have to hallucinate in that territory again.
@@ -71,6 +71,6 @@ Whenever you and your agent do a deep dive into a library, protocol, compiler, o
 ## License
 
 - **Atlas Knowledge Content (`knowledge/`, `agent-notes.md`, `llms.txt`):** [**CC BY-SA 4.0**](./LICENSE) (see [`knowledge/README.md`](./knowledge/README.md) for attribution and commercial terms).
-- **MCP Server (`agent-notes-mcp`):** Open source in a separate repository ([`AI-Guiders/agent-notes-mcp`](https://github.com/AI-Guiders/agent-notes-mcp)).
+- **MCP Server (`ai-atlas-mcp`):** Open source in a separate repository ([`AI-Guiders/ai-atlas-mcp`](https://github.com/AI-Guiders/ai-atlas-mcp)).
 
 
